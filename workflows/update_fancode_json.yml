@@ -2,8 +2,11 @@ name: Update Fancode JSON & M3U
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # Runs every 5 minutes
-  workflow_dispatch:          # Allows manual trigger from GitHub Actions tab
+    - cron: '*/5 * * * *'   # Every 5 minutes
+  workflow_dispatch:          # Manual trigger from Actions tab
+
+permissions:
+  contents: write             # ✅ REQUIRED: allows the bot to push commits
 
 jobs:
   update:
@@ -12,6 +15,8 @@ jobs:
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v3
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}  # ✅ explicit token for push
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,7 +31,7 @@ jobs:
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git add pranav.json fancode.m3u
-          git diff --cached --quiet || git commit -m "Auto-update: pranav.json & fancode.m3u [$(date -u '+%Y-%m-%d %H:%M:%S UTC')]"
+          git diff --cached --quiet || git commit -m "🔄 Auto-update [$(date -u '+%Y-%m-%d %H:%M:%S UTC')]"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
