@@ -1,71 +1,127 @@
-# 🚀 📡 FanCode Live Events Data Hub by Pranav (your-github-username)
+# 📡 FanCode Live Events — Auto-Update Hub
 
-[![GitHub Workflow Status](../../actions/workflows/update_fancode_json.yml/badge.svg)](../../actions)
-[![GitHub last commit](https://img.shields.io/github/last-commit/your-github-username/Fancode-New-Auto-Update)](../../commits/main)
+<div align="center">
 
-> ✨ **A high-availability, fully automated data synchronization project ensuring the FanCode live events list is always fresh and reliable.**
+[![Workflow Status](https://github.com/Vk1817/Fancode-New-Auto-Update/actions/workflows/update_fancode_json.yml/badge.svg)](https://github.com/Vk1817/Fancode-New-Auto-Update/actions)
+[![Last Commit](https://img.shields.io/github/last-commit/Vk1817/Fancode-New-Auto-Update?color=blue&label=Last%20Updated)](https://github.com/Vk1817/Fancode-New-Auto-Update/commits/main)
+[![Stars](https://img.shields.io/github/stars/Vk1817/Fancode-New-Auto-Update?style=social)](https://github.com/Vk1817/Fancode-New-Auto-Update/stargazers)
+[![Forks](https://img.shields.io/github/forks/Vk1817/Fancode-New-Auto-Update?style=social)](https://github.com/Vk1817/Fancode-New-Auto-Update/network/members)
+[![Repo Size](https://img.shields.io/github/repo-size/Vk1817/Fancode-New-Auto-Update)](https://github.com/Vk1817/Fancode-New-Auto-Update)
 
----
+**A fully automated, zero-maintenance pipeline that keeps FanCode live event data always fresh — updated every 5 minutes via GitHub Actions.**
 
-## 📈 Repository Metrics & Visitor Count
+[📥 Get JSON Data](#-data-files) • [📺 Get M3U Playlist](#-data-files) • [📢 Join Telegram](#-join-our-telegram)
 
-| Metric | Status |
-| --- | --- |
-| **Workflow Status** | [![GitHub Workflow Status](../../actions/workflows/update_fancode_json.yml/badge.svg)](../../actions) |
-| **Total Stars** | [![GitHub stars](https://img.shields.io/github/stars/your-github-username/Fancode-New-Auto-Update?style=social)](../../stargazers) |
-| **Total Forks** | [![GitHub forks](https://img.shields.io/github/forks/your-github-username/Fancode-New-Auto-Update?style=social)](../../network/members) |
-| **Repo Size** | [![GitHub repo size](https://img.shields.io/github/repo-size/your-github-username/Fancode-New-Auto-Update)](../..) |
+</div>
 
 ---
 
-## 📢 Join Our Telegram Channel
+## 📢 Join Our Telegram
 
-Stay updated with the latest FanCode streams and announcements:
+Stay updated with the latest FanCode streams, announcements, and channel updates:
 
-👉 **[Join Telegram Channel](https://t.me/addlist/6qALMSdKoVVkNWI1)**
+<div align="center">
 
----
+### 👉 [Join Telegram Channel](https://t.me/addlist/6qALMSdKoVVkNWI1)
 
-## 🔗 Quick Attribution (Credit)
-
-This automated service is based on data collected and maintained by others. We provide full credit to the original source:
-
-**Original Source Repository:** [doctor-8trange/zyphx8](https://github.com/doctor-8trange/zyphx8)
-
-**Data URL:** `https://raw.githubusercontent.com/doctor-8trange/zyphx8/refs/heads/main/data/fancode.json`
+</div>
 
 ---
 
-## 🎯 Core Synchronization Details
+## 🚀 What is This?
 
-| Component | Detail | Setting |
-| --- | --- | --- |
-| **Data File** | `pranav.json` | JSON Format |
-| **Playlist File** | `fancode.m3u` | M3U Format |
-| **Sync Frequency** | **Every 5 Minutes** | Cron Schedule |
+This repository automatically fetches live FanCode match data from the original source and makes it available in two formats:
 
----
+- **`pranav.json`** — Full structured JSON with all match metadata, stream URLs, headers, and CDN details
+- **`fancode.m3u`** — Ready-to-use M3U playlist for IPTV players (only includes LIVE + STARTED streams)
 
-## 📢 Call to Action: Use and Enjoy!
-
-This repository is designed to be a highly reliable, zero-maintenance source for FanCode event data.
-
-We encourage developers, data enthusiasts, and FanCode fans to **Clone this repository**, integrate the `pranav.json` file into your projects, and enjoy seamless access to the latest content seamlessly!
-
-> **Hit the Star ⭐ button to show your appreciation and help keep this project running!**
+The entire pipeline runs on **GitHub Actions**, meaning no server, no hosting, and no manual work is needed.
 
 ---
 
-## 💖 Formal Acknowledgment
+## 📂 Data Files
 
-We extend our sincere thanks to the creator of **sayanpal514-hue/FANCODE-AUTO-UPDATED-PLAYLIST** for their valuable contribution to the open-source community. This project would not be possible without their consistent effort.
+Use these raw URLs directly in your apps or IPTV players:
 
-👉 **Please support the original source: [https://github.com/Jitendraunatti]**
+| File | Description | Raw URL |
+|------|-------------|---------|
+| `pranav.json` | Full JSON data | [`pranav.json`](https://raw.githubusercontent.com/Vk1817/Fancode-New-Auto-Update/main/pranav.json) |
+| `fancode.m3u` | M3U Playlist | [`fancode.m3u`](https://raw.githubusercontent.com/Vk1817/Fancode-New-Auto-Update/main/fancode.m3u) |
 
 ---
 
-## 👤 Project Developed by
+## ⚙️ How It Works
 
-This advanced auto-sync project is developed and maintained by **Pranav (your-github-username)**.
+```
+Every 5 Minutes
+      │
+      ▼
+GitHub Actions triggers update_json.py
+      │
+      ▼
+Fetches latest data from original source API
+      │
+      ├──► Saves full JSON → pranav.json
+      │
+      └──► Filters LIVE streams → fancode.m3u
+      │
+      ▼
+Auto-commits & pushes to this repository
+```
 
-📣 **Telegram:** [https://t.me/addlist/6qALMSdKoVVkNWI1](https://t.me/addlist/6qALMSdKoVVkNWI1)
+### M3U Filter Logic
+
+The playlist only includes matches that meet **all** of the following:
+- `status == "LIVE"`
+- `streamingStatus == "STARTED"`
+- A valid `Primary_Playback_URL` is present
+
+---
+
+## 🛠️ Tech Stack
+
+| Component | Technology |
+|-----------|-----------|
+| Language | Python 3 |
+| Automation | GitHub Actions |
+| Data Format | JSON + M3U |
+| Schedule | Every 5 minutes (cron) |
+
+---
+
+## 📈 Repository Stats
+
+| Metric | Badge |
+|--------|-------|
+| Workflow | [![Workflow](https://github.com/Vk1817/Fancode-New-Auto-Update/actions/workflows/update_fancode_json.yml/badge.svg)](https://github.com/Vk1817/Fancode-New-Auto-Update/actions) |
+| Last Commit | [![Last Commit](https://img.shields.io/github/last-commit/Vk1817/Fancode-New-Auto-Update)](https://github.com/Vk1817/Fancode-New-Auto-Update/commits/main) |
+| Stars | [![Stars](https://img.shields.io/github/stars/Vk1817/Fancode-New-Auto-Update?style=social)](https://github.com/Vk1817/Fancode-New-Auto-Update/stargazers) |
+| Forks | [![Forks](https://img.shields.io/github/forks/Vk1817/Fancode-New-Auto-Update?style=social)](https://github.com/Vk1817/Fancode-New-Auto-Update/network/members) |
+
+---
+
+## 💖 Credits & Attribution
+
+This project is made possible thanks to the original data source:
+
+| | |
+|-|-|
+| **Original Author** | [DOCTOR_STRANGE](https://github.com/doctor-8trange) |
+| **Source Repo** | [doctor-8trange/zyphx8](https://github.com/doctor-8trange/zyphx8) |
+| **Original Telegram** | [jitendraunatti_github](https://t.me/jitendraunatti_github) |
+
+> Full credit goes to the original creator for maintaining the FanCode data pipeline. Please support them too! ⭐
+
+---
+
+## 👤 Maintained By
+
+<div align="center">
+
+**[Vk1817](https://github.com/Vk1817)**
+
+📣 Telegram: [https://t.me/addlist/6qALMSdKoVVkNWI1](https://t.me/addlist/6qALMSdKoVVkNWI1)
+
+If you find this useful, please **⭐ Star** the repo — it helps a lot!
+
+</div>

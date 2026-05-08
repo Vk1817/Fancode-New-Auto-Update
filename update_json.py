@@ -56,7 +56,7 @@ def main():
             content = response.read().decode('utf-8')
             data = json.loads(content)
 
-        # Inject Pranav's Telegram link if not already present in source
+        # Add Telegram link if not present in source data
         if not data.get("Telegram"):
             data["Telegram"] = TELEGRAM_LINK
 
