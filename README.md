@@ -108,7 +108,7 @@ This project is made possible thanks to the original data source:
 |-|-|
 | **Original Author** | [DOCTOR_STRANGE](https://github.com/doctor-8trange) |
 | **Source Repo** | [doctor-8trange/zyphx8](https://github.com/doctor-8trange/zyphx8) |
-| **Original Telegram** | [jitendraunatti_github](https://t.me/jitendraunatti_github) |
+| **Original Telegram** | [jitendraunatti_github](https://github.com/doctor-8trange) |
 
 > Full credit goes to the original creator for maintaining the FanCode data pipeline. Please support them too! ⭐
 
