@@ -2,11 +2,12 @@
 
 <div align="center">
 
-[![Workflow Status](https://github.com/Vk1817/Fancode-New-Auto-Update/actions/workflows/update_fancode_json.yml/badge.svg)](https://github.com/Vk1817/Fancode-New-Auto-Update/actions)
-[![Last Commit](https://img.shields.io/github/last-commit/Vk1817/Fancode-New-Auto-Update?color=blue&label=Last%20Updated)](https://github.com/Vk1817/Fancode-New-Auto-Update/commits/main)
+[![Auto Update](https://img.shields.io/badge/Auto%20Update-Every%205%20Min-brightgreen?logo=github-actions&logoColor=white)](https://github.com/Vk1817/Fancode-New-Auto-Update/actions)
+[![Last Commit](https://img.shields.io/github/last-commit/Vk1817/Fancode-New-Auto-Update?color=blue&label=Last%20Updated&logo=github)](https://github.com/Vk1817/Fancode-New-Auto-Update/commits/main)
 [![Stars](https://img.shields.io/github/stars/Vk1817/Fancode-New-Auto-Update?style=social)](https://github.com/Vk1817/Fancode-New-Auto-Update/stargazers)
 [![Forks](https://img.shields.io/github/forks/Vk1817/Fancode-New-Auto-Update?style=social)](https://github.com/Vk1817/Fancode-New-Auto-Update/network/members)
-[![Repo Size](https://img.shields.io/github/repo-size/Vk1817/Fancode-New-Auto-Update)](https://github.com/Vk1817/Fancode-New-Auto-Update)
+[![Repo Size](https://img.shields.io/github/repo-size/Vk1817/Fancode-New-Auto-Update?logo=github)](https://github.com/Vk1817/Fancode-New-Auto-Update)
+[![Telegram](https://img.shields.io/badge/Telegram-Join%20Channel-blue?logo=telegram)](https://t.me/addlist/6qALMSdKoVVkNWI1)
 
 **A fully automated, zero-maintenance pipeline that keeps FanCode live event data always fresh — updated every 5 minutes via GitHub Actions.**
 
@@ -93,10 +94,11 @@ The playlist only includes matches that meet **all** of the following:
 
 | Metric | Badge |
 |--------|-------|
-| Workflow | [![Workflow](https://github.com/Vk1817/Fancode-New-Auto-Update/actions/workflows/update_fancode_json.yml/badge.svg)](https://github.com/Vk1817/Fancode-New-Auto-Update/actions) |
-| Last Commit | [![Last Commit](https://img.shields.io/github/last-commit/Vk1817/Fancode-New-Auto-Update)](https://github.com/Vk1817/Fancode-New-Auto-Update/commits/main) |
+| Auto Update | [![Auto Update](https://img.shields.io/badge/Auto%20Update-Every%205%20Min-brightgreen?logo=github-actions)](https://github.com/Vk1817/Fancode-New-Auto-Update/actions) |
+| Last Commit | [![Last Commit](https://img.shields.io/github/last-commit/Vk1817/Fancode-New-Auto-Update?logo=github)](https://github.com/Vk1817/Fancode-New-Auto-Update/commits/main) |
 | Stars | [![Stars](https://img.shields.io/github/stars/Vk1817/Fancode-New-Auto-Update?style=social)](https://github.com/Vk1817/Fancode-New-Auto-Update/stargazers) |
 | Forks | [![Forks](https://img.shields.io/github/forks/Vk1817/Fancode-New-Auto-Update?style=social)](https://github.com/Vk1817/Fancode-New-Auto-Update/network/members) |
+| Repo Size | [![Repo Size](https://img.shields.io/github/repo-size/Vk1817/Fancode-New-Auto-Update?logo=github)](https://github.com/Vk1817/Fancode-New-Auto-Update) |
 
 ---
 
@@ -108,7 +110,7 @@ This project is made possible thanks to the original data source:
 |-|-|
 | **Original Author** | [DOCTOR_STRANGE](https://github.com/doctor-8trange) |
 | **Source Repo** | [doctor-8trange/zyphx8](https://github.com/doctor-8trange/zyphx8) |
-| **Original Telegram** | [jitendraunatti_github](https://github.com/doctor-8trange) |
+| **Original Telegram** | [jitendraunatti_github](https://t.me/jitendraunatti_github) |
 
 > Full credit goes to the original creator for maintaining the FanCode data pipeline. Please support them too! ⭐
 
