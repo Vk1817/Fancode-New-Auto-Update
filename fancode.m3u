@@ -7,10 +7,6 @@ https://in-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa76304_1ta-di
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-flive.fancode.com/mumbai/142416_english_hls_4a16d36c7993263_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142458" tvg-logo="https://images.fancode.com/aig/match/v1778306880658/142458_CASACARDS_APP.png" group-title="Kabaddi", Young Star Kabaddi League 2026: Raging Bulls Vs Roaring Rhinos (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/142458_english_hls_483c3b6af450217_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142505" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Sydney-FC-vs-Newcastle-Jets_fc-web.jpg" group-title="Football", A League 2025-26: Sydney Fc Vs Newcastle Jets (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
@@ -35,3 +31,11 @@ https://in-mc-flive.fancode.com/mumbai/142619_english_hls_953e0e4ec870909_1ta-di
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-flive.fancode.com/mumbai/142225_english_hls_0fe7bf795451760_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142621" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", ATP Masters Internazionali BNL d'Italia 2026: Day 4   Court 1 (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142100" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Truist Championship 2026: Main Feed   Day 3 (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/142100_english_hls_991728742681189_1ta-di_h264/index.m3u8
