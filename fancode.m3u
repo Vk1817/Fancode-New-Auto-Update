@@ -23,10 +23,6 @@ https://in-mc-flive.fancode.com/mumbai/131178_english_dash_8823_1drmta-di_h264/i
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-flive.fancode.com/mumbai/142489_english_hls_ab2f3c60d080214_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139940" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778057955673.png" group-title="MotoGP", MICHELIN® GRAND PRIX OF FRANCE 2026: France Gp (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-plive.fancode.com/mumbai/139940_english_hls_3bbb51159f96114_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142224" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", ATP Masters Internazionali BNL d'Italia 2026: Day 4   Main Feed (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
@@ -46,11 +42,11 @@ https://in-mc-plive.fancode.com/mumbai/142225_english_hls_0fe7bf795451760_1ta-di
 #EXTINF:-1 tvg-id="142621" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", ATP Masters Internazionali BNL d'Italia 2026: Day 4   Court 1 (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8
+https://in-mc-plive.fancode.com/mumbai/142621_english_hls_feea684b7856550_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142100" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Truist Championship 2026: Main Feed   Day 3 (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/142100_english_hls_991728742681189_1ta-di_h264/index.m3u8
+https://in-mc-plive.fancode.com/mumbai/142100_english_hls_991728742681189_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142102" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Truist Championship 2026: Featured Groups   Day 3 (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
