@@ -7,6 +7,10 @@ https://in-mc-flive.fancode.com/mumbai/141957_english_hls_416027e7cb20268_1ta-di
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-flive.fancode.com/mumbai/141956_english_hls_d853788a8667708_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="131179" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131179_5427_RO_GEF_FC-Web.png" group-title="Football", LALIGA 2025-26: Real Oviedo Vs Getafe Cf (ENGLISH) [DRM]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/131179_english_dash_19026_1drmta-di_h264/index.mpd
 #EXTINF:-1 tvg-id="142545" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/142545_6062_VIE_KOR_FC-WEB.jpg" group-title="Football", AFC U17 Asian Cup Saudi Arabia 2026: Vietnam Vs Korea Republic (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
@@ -47,3 +51,7 @@ https://in-mc-flive.fancode.com/mumbai/142105_english_hls_63b237ec8295516_1ta-di
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-flive.fancode.com/mumbai/142623_english_hls_3c66f1332159384_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="142103" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Truist Championship 2026: World Feed   Day 4 (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-plive.fancode.com/mumbai/142103_english_hls_1e46e68b6223786_1ta-di_h264/index.m3u8
