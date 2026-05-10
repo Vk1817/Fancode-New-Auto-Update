@@ -1,36 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="141957" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", West Indies Championship 2026: Guyana Harpy Eagles Vs West Indies Academy (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-plive.fancode.com/mumbai/141957_english_hls_416027e7cb20268_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="141956" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/WI-Test_web.jpg" group-title="Cricket", West Indies Championship 2026: Trinidad & Tobago Red Force Vs Barbados Pride (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-plive.fancode.com/mumbai/141956_english_hls_d853788a8667708_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="131173" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131173_5427_BAR_RM_FC-Web.png" group-title="Football", LALIGA 2025-26: Fc Barcelona Vs Real Madrid (ENGLISH) [DRM]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/131173_english_dash_64087_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-id="131173" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131173_5427_BAR_RM_FC-Web.png" group-title="Football", LALIGA 2025-26: Fc Barcelona Vs Real Madrid (HINDI) [DRM]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/131173_hindi_dash_75596_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-id="131173" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131173_5427_BAR_RM_FC-Web.png" group-title="Football", LALIGA 2025-26: Fc Barcelona Vs Real Madrid (MALAYALAM) [DRM]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/131173_malayalam_dash_62303_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-id="131173" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/131173_5427_BAR_RM_FC-Web.png" group-title="Football", LALIGA 2025-26: Fc Barcelona Vs Real Madrid (BENGALI) [DRM]
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/131173_bengali_dash_27747_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-id="142226" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Internazionali-BNL-d'Italia_fc-web.jpg" group-title="Tennis", ATP Masters Internazionali BNL d'Italia 2026: Day 5   Main Feed (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-plive.fancode.com/mumbai/142226_english_hls_1107196c7429776_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142104" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Truist Championship 2026: Main Feed   Day 4 (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-plive.fancode.com/mumbai/142104_english_hls_c4c6d95f0d29521_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="142106" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Truist-Championship--2026_Web_1080_x_810.jpg" group-title="Golf", Truist Championship 2026: Featured Groups   Day 4 (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
@@ -39,7 +7,3 @@ https://in-mc-plive.fancode.com/mumbai/142106_english_hls_c04852fe7915293_1ta-di
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-plive.fancode.com/mumbai/142103_english_hls_1e46e68b6223786_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="142113" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ONEflight-Myrtle-Beach-Classic-2026-old.png" group-title="Golf", ONEflight Myrtle Beach Classic 2026: World Feed   Day 4 (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/142113_english_hls_fdfe7ad75953974_1ta-di_h264/index.m3u8
