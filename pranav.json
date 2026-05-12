@@ -2,134 +2,15 @@
     "Author": "DOCTOR_STRANGE",
     "Telegram": "https://t.me/jitendraunatti_github",
     "name": "FanCode Live Matches API",
-    "last_updated": "03:28:01 PM 12-05-2026",
+    "last_updated": "05:28:01 PM 12-05-2026",
     "headers": {
         "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 48,
-    "live_matches": 7,
-    "upcoming_matches": 41,
+    "total_matches": 50,
+    "live_matches": 6,
+    "upcoming_matches": 44,
     "matches": [
-        {
-            "category": "Cricket",
-            "title": "Bangladesh Vs Pakistan",
-            "tournament": "Pakistan tour of Bangladesh, 2026",
-            "match_id": 142160,
-            "status": "LIVE",
-            "streamingStatus": "STARTED",
-            "startTime": "08 May 2026 09:30 AM",
-            "startDate": "13 May 2026 09:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142160_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
-                "PLAYBACK": "",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh,-2026.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-Sporty-.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142160_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Bangladesh",
-                    "shortName": "BAN",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#397b46",
-                    "cricketScore": [
-                        {
-                            "runs": 413,
-                            "overs": "117.1",
-                            "balls": "0",
-                            "status": "COMPLETED",
-                            "wickets": 10
-                        },
-                        {
-                            "runs": 240,
-                            "overs": "70.3",
-                            "balls": "0",
-                            "status": "DECLARED",
-                            "wickets": 9
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Pakistan",
-                    "shortName": "PAK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#559830",
-                    "cricketScore": [
-                        {
-                            "runs": 386,
-                            "overs": "100.3",
-                            "balls": "0",
-                            "status": "COMPLETED",
-                            "wickets": 10
-                        },
-                        {
-                            "runs": 147,
-                            "overs": "41.4",
-                            "balls": "0",
-                            "status": "IN_PROGRESS",
-                            "wickets": 5
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "ENGLISH",
-            "STREAMING_CDN": {
-                "is_drm": false,
-                "Primary_Playback_URL": "https://in-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/index.m3u8",
-                "fancode_bd_cdn": "https://bd-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/index.m3u8",
-                "fancode_np_cdn": "https://np-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/index.m3u8",
-                "fancode_lk_cdn": "https://lk-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/index.m3u8",
-                "dai_google_cdn": "Unavailable",
-                "cloudfront_cdn": "Unavailable",
-                "sony_cdn": "Unavailable",
-                "language": "ENGLISH",
-                "X-Served-By": "LOKI",
-                "backup": {
-                    "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/index.m3u8",
-                    "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142160_english_hls_a516757daa46589_1ta-di_h264/index.m3u8"
-                }
-            },
-            "auto_streams": [
-                {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/240p.m3u8?hdntl=Expires=1778657406~_GO=Generated~acl=/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/*~Signature=AeHCm9qtu1tEYXCu8D3R2vmHs9OAY7oJ2-O36rll60eFszqiSqD0tepdsJCyVjRpVfGbBf7AGf5zelNUN0GkYWleuQ4A\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/360p.m3u8?hdntl=Expires=1778657406~_GO=Generated~acl=/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/*~Signature=AeHCm9qtu1tEYXCu8D3R2vmHs9OAY7oJ2-O36rll60eFszqiSqD0tepdsJCyVjRpVfGbBf7AGf5zelNUN0GkYWleuQ4A\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/480p.m3u8?hdntl=Expires=1778657406~_GO=Generated~acl=/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/*~Signature=AeHCm9qtu1tEYXCu8D3R2vmHs9OAY7oJ2-O36rll60eFszqiSqD0tepdsJCyVjRpVfGbBf7AGf5zelNUN0GkYWleuQ4A\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/540p.m3u8?hdntl=Expires=1778657406~_GO=Generated~acl=/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/*~Signature=AeHCm9qtu1tEYXCu8D3R2vmHs9OAY7oJ2-O36rll60eFszqiSqD0tepdsJCyVjRpVfGbBf7AGf5zelNUN0GkYWleuQ4A\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/720p.m3u8?hdntl=Expires=1778657406~_GO=Generated~acl=/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/*~Signature=AeHCm9qtu1tEYXCu8D3R2vmHs9OAY7oJ2-O36rll60eFszqiSqD0tepdsJCyVjRpVfGbBf7AGf5zelNUN0GkYWleuQ4A\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778657406~_GO=Generated~acl=/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/*~Signature=AeHCm9qtu1tEYXCu8D3R2vmHs9OAY7oJ2-O36rll60eFszqiSqD0tepdsJCyVjRpVfGbBf7AGf5zelNUN0GkYWleuQ4A",
-                    "cookie": "hdntl=Expires=1778657406~_GO=Generated~acl=/mumbai/142160_english_hls_a516757daa46589_1ta-di_h264/*~Signature=AeHCm9qtu1tEYXCu8D3R2vmHs9OAY7oJ2-O36rll60eFszqiSqD0tepdsJCyVjRpVfGbBf7AGf5zelNUN0GkYWleuQ4A",
-                    "cookie_valid": "1778657406",
-                    "create_date": "Tuesday, May 12, 2026, 1:00:02 PM",
-                    "expire_date": "Wednesday, May 13, 2026, 1:00:06 PM",
-                    "language": "ENGLISH"
-                }
-            ]
-        },
         {
             "category": "Cricket",
             "title": "Amo Region Vs Band E Amir Region",
@@ -161,11 +42,11 @@
                     "color": "#6db7ff",
                     "cricketScore": [
                         {
-                            "runs": 92,
-                            "overs": "6.1",
-                            "balls": "37",
-                            "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "runs": 189,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 8
                         }
                     ],
                     "kabaddiScore": null,
@@ -174,7 +55,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -186,14 +67,22 @@
                     },
                     "isWinner": null,
                     "color": "#fa8940",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 66,
+                            "overs": "8",
+                            "balls": "48",
+                            "status": "IN_PROGRESS",
+                            "wickets": 2
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -285,11 +174,11 @@
                     "color": "#0f266e",
                     "cricketScore": [
                         {
-                            "runs": 21,
-                            "overs": "7.2",
-                            "balls": "44",
+                            "runs": 181,
+                            "overs": "35.3",
+                            "balls": "213",
                             "status": "IN_PROGRESS",
-                            "wickets": 2
+                            "wickets": 7
                         }
                     ],
                     "kabaddiScore": null,
@@ -323,167 +212,92 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/240p.m3u8?hdntl=Expires=1778658246~_GO=Generated~acl=/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/*~Signature=AeHCm9qXNz01Z-9h-4F9gU-uPEg_Z4wQ4Ml0eC-8d4gdtGFXsFWE5dVowotlFfrHmeWKTt_mQ-6h9KeRGNR_hTLMF6wB\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/360p.m3u8?hdntl=Expires=1778658246~_GO=Generated~acl=/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/*~Signature=AeHCm9qXNz01Z-9h-4F9gU-uPEg_Z4wQ4Ml0eC-8d4gdtGFXsFWE5dVowotlFfrHmeWKTt_mQ-6h9KeRGNR_hTLMF6wB\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/480p.m3u8?hdntl=Expires=1778658246~_GO=Generated~acl=/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/*~Signature=AeHCm9qXNz01Z-9h-4F9gU-uPEg_Z4wQ4Ml0eC-8d4gdtGFXsFWE5dVowotlFfrHmeWKTt_mQ-6h9KeRGNR_hTLMF6wB\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/540p.m3u8?hdntl=Expires=1778658246~_GO=Generated~acl=/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/*~Signature=AeHCm9qXNz01Z-9h-4F9gU-uPEg_Z4wQ4Ml0eC-8d4gdtGFXsFWE5dVowotlFfrHmeWKTt_mQ-6h9KeRGNR_hTLMF6wB\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/720p.m3u8?hdntl=Expires=1778658246~_GO=Generated~acl=/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/*~Signature=AeHCm9qXNz01Z-9h-4F9gU-uPEg_Z4wQ4Ml0eC-8d4gdtGFXsFWE5dVowotlFfrHmeWKTt_mQ-6h9KeRGNR_hTLMF6wB\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778658246~_GO=Generated~acl=/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/*~Signature=AeHCm9qXNz01Z-9h-4F9gU-uPEg_Z4wQ4Ml0eC-8d4gdtGFXsFWE5dVowotlFfrHmeWKTt_mQ-6h9KeRGNR_hTLMF6wB",
-                    "cookie": "hdntl=Expires=1778658246~_GO=Generated~acl=/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/*~Signature=AeHCm9qXNz01Z-9h-4F9gU-uPEg_Z4wQ4Ml0eC-8d4gdtGFXsFWE5dVowotlFfrHmeWKTt_mQ-6h9KeRGNR_hTLMF6wB",
-                    "cookie_valid": "1778658246",
-                    "create_date": "Tuesday, May 12, 2026, 1:14:02 PM",
-                    "expire_date": "Wednesday, May 13, 2026, 1:14:06 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/240p.m3u8?hdntl=Expires=1778673066~_GO=Generated~acl=/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/*~Signature=AeHCm9r1jkZ9pIuGl62hPrAI1VNQY3qgvFFJeUYla7E_m7I_ExZdFyD1_hkUo_StNNpnaijxn_xa969IIay_YWkuD0wH\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/360p.m3u8?hdntl=Expires=1778673066~_GO=Generated~acl=/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/*~Signature=AeHCm9r1jkZ9pIuGl62hPrAI1VNQY3qgvFFJeUYla7E_m7I_ExZdFyD1_hkUo_StNNpnaijxn_xa969IIay_YWkuD0wH\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/480p.m3u8?hdntl=Expires=1778673066~_GO=Generated~acl=/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/*~Signature=AeHCm9r1jkZ9pIuGl62hPrAI1VNQY3qgvFFJeUYla7E_m7I_ExZdFyD1_hkUo_StNNpnaijxn_xa969IIay_YWkuD0wH\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/540p.m3u8?hdntl=Expires=1778673066~_GO=Generated~acl=/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/*~Signature=AeHCm9r1jkZ9pIuGl62hPrAI1VNQY3qgvFFJeUYla7E_m7I_ExZdFyD1_hkUo_StNNpnaijxn_xa969IIay_YWkuD0wH\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/720p.m3u8?hdntl=Expires=1778673066~_GO=Generated~acl=/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/*~Signature=AeHCm9r1jkZ9pIuGl62hPrAI1VNQY3qgvFFJeUYla7E_m7I_ExZdFyD1_hkUo_StNNpnaijxn_xa969IIay_YWkuD0wH\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-plive.fancode.com/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778673066~_GO=Generated~acl=/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/*~Signature=AeHCm9r1jkZ9pIuGl62hPrAI1VNQY3qgvFFJeUYla7E_m7I_ExZdFyD1_hkUo_StNNpnaijxn_xa969IIay_YWkuD0wH",
+                    "cookie": "hdntl=Expires=1778673066~_GO=Generated~acl=/mumbai/142289_english_hls_606e9d6f3051536_1ta-di_h264/*~Signature=AeHCm9r1jkZ9pIuGl62hPrAI1VNQY3qgvFFJeUYla7E_m7I_ExZdFyD1_hkUo_StNNpnaijxn_xa969IIay_YWkuD0wH",
+                    "cookie_valid": "1778673066",
+                    "create_date": "Tuesday, May 12, 2026, 5:21:02 PM",
+                    "expire_date": "Wednesday, May 13, 2026, 5:21:06 PM",
                     "language": "ENGLISH"
                 }
             ]
         },
         {
-            "category": "Cricket",
-            "title": "Sri Lanka Women Vs New Zealand A Women",
-            "tournament": "New Zealand Women’s A tour of Sri Lanka, 2026",
-            "match_id": 142509,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "12 May 2026 10:00 AM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142509_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/SL-vs-NZ.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)-(1)_1778255679215.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142509_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Sri Lanka Women",
-                    "shortName": "SL-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#164fad",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "New Zealand A Women",
-                    "shortName": "NZ-A-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#F2CECF",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Kabaddi",
-            "title": "Roaring Rhinos Vs Raging Bulls",
-            "tournament": "Young Star Kabaddi League 2026",
-            "match_id": 142473,
+            "category": "Football",
+            "title": "Bengaluru Football Club Vs Punjab Fc Junior",
+            "tournament": "Dream Sports Championship Football 2026",
+            "match_id": 142373,
             "status": "LIVE",
             "streamingStatus": "STARTED",
-            "startTime": "12 May 2026 03:00 PM",
+            "startTime": "12 May 2026 04:00 PM",
             "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142473_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142373_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
                 "PLAYBACK": "",
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Young-Star-Kabaddi-League.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Young-Star-Kabaddi-League-old-sporty_1778406351640.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142473_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_Dream-Sports-Championship.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-sporty--(1).png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142373_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "team": [
                 {
-                    "name": "Roaring Rhinos",
-                    "shortName": "RRR",
+                    "name": "Bengaluru Football Club",
+                    "shortName": "BFC",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-RRR@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT2@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#AC5EE1",
+                    "color": "#080859",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "status": null
                 },
                 {
-                    "name": "Raging Bulls",
-                    "shortName": "RB",
+                    "name": "Punjab FC Junior",
+                    "shortName": "PFC",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-RB@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PUNJ@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#84E3C7",
+                    "color": "#080859",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
+                    "status": null
                 }
             ],
             "language": "ENGLISH",
             "STREAMING_CDN": {
                 "is_drm": false,
-                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/142473_english_hls_b6bc06b66194348_1ta-di_h264/index.m3u8",
-                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142473_english_hls_b6bc06b66194348_1ta-di_h264/index.m3u8",
-                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/142473_english_hls_b6bc06b66194348_1ta-di_h264/index.m3u8",
-                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/142473_english_hls_b6bc06b66194348_1ta-di_h264/index.m3u8",
-                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/142473_english_hls_b6bc06b66194348_1ta-di_h264/index.m3u8",
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/index.m3u8",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/index.m3u8",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/index.m3u8",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/index.m3u8",
                 "dai_google_cdn": "Unavailable",
                 "cloudfront_cdn": "Unavailable",
                 "sony_cdn": "Unavailable",
                 "language": "ENGLISH",
                 "X-Served-By": "ROLEX",
                 "backup": {
-                    "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142473_english_hls_b6bc06b66194348_1ta-di_h264/index.m3u8",
-                    "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142473_english_hls_b6bc06b66194348_1ta-di_h264/index.m3u8"
+                    "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/index.m3u8",
+                    "fancode_dai_cdn": "https://dai-partner.fancode.com/primary/142373_english_hls_88945f0d9c13289_1ta-di_h264/index.m3u8"
                 }
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142473_english_hls_b6bc06b66194348_1ta-di_h264/240p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142473_english_hls_b6bc06b66194348_1ta-di_h264/360p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142473_english_hls_b6bc06b66194348_1ta-di_h264/480p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142473_english_hls_b6bc06b66194348_1ta-di_h264/540p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142473_english_hls_b6bc06b66194348_1ta-di_h264/720p.m3u8\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-fblive.fancode.com/mumbai/142473_english_hls_b6bc06b66194348_1ta-di_h264/1080p.m3u8",
-                    "cookie": null,
-                    "cookie_valid": "1778663942",
-                    "create_date": "Tuesday, May 12, 2026, 2:49:02 PM",
-                    "expire_date": "Wednesday, May 13, 2026, 2:49:02 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/240p.m3u8?hdntl=Expires=1778667547~_GO=Generated~acl=/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/*~Signature=AeHCm9oBkIndsZBXW1nbeurfpUg19QUxI6Df-fBT4T1hzH2n0TvWHEAt-vxeAI2KZM_Kr1379P6SMWFuNI2p0xOweX0K\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/360p.m3u8?hdntl=Expires=1778667547~_GO=Generated~acl=/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/*~Signature=AeHCm9oBkIndsZBXW1nbeurfpUg19QUxI6Df-fBT4T1hzH2n0TvWHEAt-vxeAI2KZM_Kr1379P6SMWFuNI2p0xOweX0K\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/480p.m3u8?hdntl=Expires=1778667547~_GO=Generated~acl=/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/*~Signature=AeHCm9oBkIndsZBXW1nbeurfpUg19QUxI6Df-fBT4T1hzH2n0TvWHEAt-vxeAI2KZM_Kr1379P6SMWFuNI2p0xOweX0K\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/540p.m3u8?hdntl=Expires=1778667547~_GO=Generated~acl=/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/*~Signature=AeHCm9oBkIndsZBXW1nbeurfpUg19QUxI6Df-fBT4T1hzH2n0TvWHEAt-vxeAI2KZM_Kr1379P6SMWFuNI2p0xOweX0K\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/720p.m3u8?hdntl=Expires=1778667547~_GO=Generated~acl=/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/*~Signature=AeHCm9oBkIndsZBXW1nbeurfpUg19QUxI6Df-fBT4T1hzH2n0TvWHEAt-vxeAI2KZM_Kr1379P6SMWFuNI2p0xOweX0K\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/1080p.m3u8?hdntl=Expires=1778667547~_GO=Generated~acl=/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/*~Signature=AeHCm9oBkIndsZBXW1nbeurfpUg19QUxI6Df-fBT4T1hzH2n0TvWHEAt-vxeAI2KZM_Kr1379P6SMWFuNI2p0xOweX0K",
+                    "cookie": "hdntl=Expires=1778667547~_GO=Generated~acl=/mumbai/142373_english_hls_88945f0d9c13289_1ta-di_h264/*~Signature=AeHCm9oBkIndsZBXW1nbeurfpUg19QUxI6Df-fBT4T1hzH2n0TvWHEAt-vxeAI2KZM_Kr1379P6SMWFuNI2p0xOweX0K",
+                    "cookie_valid": "1778667547",
+                    "create_date": "Tuesday, May 12, 2026, 3:49:02 PM",
+                    "expire_date": "Wednesday, May 13, 2026, 3:49:07 PM",
                     "language": "ENGLISH"
                 }
             ]
@@ -757,6 +571,103 @@
         },
         {
             "category": "Cricket",
+            "title": "Bangladesh Vs Pakistan",
+            "tournament": "Pakistan tour of Bangladesh, 2026",
+            "match_id": 142160,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "08 May 2026 09:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142160_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh,-2026.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-old-.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-Sporty-.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142160_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Bangladesh",
+                    "shortName": "BAN",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#397b46",
+                    "cricketScore": [
+                        {
+                            "runs": 413,
+                            "overs": "117.1",
+                            "balls": "0",
+                            "status": "COMPLETED",
+                            "wickets": 10
+                        },
+                        {
+                            "runs": 240,
+                            "overs": "70.3",
+                            "balls": "0",
+                            "status": "DECLARED",
+                            "wickets": 9
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Pakistan",
+                    "shortName": "PAK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#559830",
+                    "cricketScore": [
+                        {
+                            "runs": 386,
+                            "overs": "100.3",
+                            "balls": "0",
+                            "status": "COMPLETED",
+                            "wickets": 10
+                        },
+                        {
+                            "runs": 163,
+                            "overs": "52.5",
+                            "balls": "0",
+                            "status": "IN_PROGRESS",
+                            "wickets": 10
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
             "title": "Guyana Harpy Eagles Vs West Indies Academy",
             "tournament": "West Indies Championship 2026",
             "match_id": 141957,
@@ -938,73 +849,6 @@
                     "isWinner": null,
                     "color": "#ff8484",
                     "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Kabaddi",
-            "title": "Jungle Panthers Vs Lightning Lions",
-            "tournament": "Young Star Kabaddi League 2026",
-            "match_id": 142474,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "12 May 2026 04:20 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142474_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Young-Star-Kabaddi-League.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Young-Star-Kabaddi-League-old-sporty_1778462616315.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142474_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Jungle Panthers",
-                    "shortName": "JP",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-JP@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#84E3C7",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Lightning Lions",
-                    "shortName": "LL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-LL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#84E3C7",
-                    "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1493,73 +1337,6 @@
             "auto_streams": null
         },
         {
-            "category": "Football",
-            "title": "Bengaluru Football Club Vs Punjab Fc Junior",
-            "tournament": "Dream Sports Championship Football 2026",
-            "match_id": 142373,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "12 May 2026 04:00 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142373_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Tour-Logo_Dream-Sports-Championship.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-sporty--(1).png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142373_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Bengaluru Football Club",
-                    "shortName": "BFC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT2@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#080859",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Punjab FC Junior",
-                    "shortName": "PFC",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PUNJ@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#080859",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
             "category": "Cricket",
             "title": "Vanuatu Vs Cook Islands",
             "tournament": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
@@ -1895,6 +1672,73 @@
             "auto_streams": null
         },
         {
+            "category": "Kabaddi",
+            "title": "Lightning Lions Vs Roaring Rhinos",
+            "tournament": "Young Star Kabaddi League 2026",
+            "match_id": 142479,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 May 2026 04:20 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142479_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Young-Star-Kabaddi-League.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Young-Star-Kabaddi-League-old-sporty_1778462616315.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142479_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Lightning Lions",
+                    "shortName": "LL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-LL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#84E3C7",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Roaring Rhinos",
+                    "shortName": "RRR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-RRR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#AC5EE1",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
             "category": "Tennis",
             "title": "Day 7   Pietrangeli",
             "tournament": "ATP Masters Internazionali BNL d'Italia 2026",
@@ -2009,73 +1853,6 @@
                     },
                     "isWinner": null,
                     "color": "#FF0000",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Kabaddi",
-            "title": "Lightning Lions Vs Roaring Rhinos",
-            "tournament": "Young Star Kabaddi League 2026",
-            "match_id": 142479,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "13 May 2026 04:20 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142479_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Young-Star-Kabaddi-League.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Kabaddi-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
-                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Young-Star-Kabaddi-League-old-sporty_1778462616315.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142479_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Lightning Lions",
-                    "shortName": "LL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-LL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#84E3C7",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Roaring Rhinos",
-                    "shortName": "RRR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-RRR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#AC5EE1",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2463,6 +2240,140 @@
             "auto_streams": null
         },
         {
+            "category": "Football",
+            "title": "Vietnam Vs United Arab Emirates",
+            "tournament": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_id": 142258,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 May 2026 10:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/142258_6062_VIE_UAE_FC-WEB.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142258_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/142258_6062_VIE_UAE_FC-WEB.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ChatGPT-Image-May-5,-2026,-10_42_49-PM.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/142258_6062_VIE_UAE_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1777999652487/142258_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142258_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Vietnam",
+                    "shortName": "VIE",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/VIE-FT1@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f34f4f",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "United Arab Emirates",
+                    "shortName": "UAE",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UAE@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ff8585",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Korea Republic Vs Yemen",
+            "tournament": "AFC U17 Asian Cup Saudi Arabia 2026",
+            "match_id": 142257,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "13 May 2026 10:30 PM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/142257_6062_KOR_YMN_FC-WEB.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142257_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/142257_6062_KOR_YMN_FC-WEB.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ChatGPT-Image-May-5,-2026,-10_42_49-PM.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/142257_6062_KOR_YMN_FC-WEB.jpg",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1777999652489/142257_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142257_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Korea Republic",
+                    "shortName": "KOR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#dd717a",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Yemen",
+                    "shortName": "YMN",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/YMN-FT2@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#e96774",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
             "category": "Tennis",
             "title": "Atp Masters Internazionali Bnl D'italia 2026",
             "tournament": "ATP Masters Internazionali BNL d'Italia 2026",
@@ -2598,140 +2509,6 @@
         },
         {
             "category": "Football",
-            "title": "Vietnam Vs United Arab Emirates",
-            "tournament": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_id": 142258,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "13 May 2026 10:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/142258_6062_VIE_UAE_FC-WEB.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142258_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/142258_6062_VIE_UAE_FC-WEB.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ChatGPT-Image-May-5,-2026,-10_42_49-PM.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/142258_6062_VIE_UAE_FC-WEB.jpg",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1777999652487/142258_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142258_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Vietnam",
-                    "shortName": "VIE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/VIE-FT1@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f34f4f",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "United Arab Emirates",
-                    "shortName": "UAE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-UAE@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ff8585",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
-            "title": "Korea Republic Vs Yemen",
-            "tournament": "AFC U17 Asian Cup Saudi Arabia 2026",
-            "match_id": 142257,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "13 May 2026 10:30 PM",
-            "startDate": "01 January 1970 05:30 AM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/142257_6062_KOR_YMN_FC-WEB.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142257_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/142257_6062_KOR_YMN_FC-WEB.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ChatGPT-Image-May-5,-2026,-10_42_49-PM.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/142257_6062_KOR_YMN_FC-WEB.jpg",
-                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1777999652489/142257_CASACARDS_SPORTY_APP.png",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142257_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Korea Republic",
-                    "shortName": "KOR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-SOK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#dd717a",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Yemen",
-                    "shortName": "YMN",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/YMN-FT2@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e96774",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Football",
             "title": "Getafe Cf Vs Rcd Mallorca",
             "tournament": "LALIGA 2025-26",
             "match_id": 131183,
@@ -2798,43 +2575,334 @@
             "auto_streams": null
         },
         {
-            "category": "Cricket",
-            "title": "Bangladesh Vs Pakistan",
-            "tournament": "Pakistan tour of Bangladesh, 2026",
-            "short_name": "PAK tour of BAN",
-            "match_id": 142160,
-            "status": "STARTED",
-            "startTime": "08 May 2026 09:30 AM",
-            "startDate": "08 May 2026 05:30 AM",
-            "endDate": "20 May 2026 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-Sporty-.png",
+            "category": "Football",
+            "title": "Deportivo Alaves Vs Fc Barcelona",
+            "tournament": "LALIGA 2025-26",
+            "match_id": 131180,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "14 May 2026 01:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131180_5427_ALA_BAR_FC-Web.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142160_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-Sporty-.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131180_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131180_5427_ALA_BAR_FC-Web.png",
                 "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142160_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/LALIGA-2025-26-Tour.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131180_5427_ALA_BAR_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/131180_5427_ALA_BAR_FC-App.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131180_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
-            "teams": [
+            "team": [
                 {
-                    "id": 25,
-                    "name": "Bangladesh",
-                    "shortName": "BAN",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
-                    "color": "#397b46"
+                    "name": "Deportivo Alaves",
+                    "shortName": "ALA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-ALA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#537096",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 },
                 {
-                    "id": 192,
-                    "name": "Pakistan",
-                    "shortName": "PAK",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
-                    "color": "#559830"
+                    "name": "FC Barcelona",
+                    "shortName": "BAR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/BAR-FT2@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#fee64e",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
                 }
             ],
             "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Stockport County Vs Stevenage",
+            "tournament": "League One 2025-26",
+            "match_id": 142491,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "14 May 2026 12:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142491_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://fancode.com/skillup-uploads/prod-images/2024/08/EFL-League-One.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Football.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142491_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Stockport County",
+                    "shortName": "STC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STOCK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0f326c",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Stevenage",
+                    "shortName": "STG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-STG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#FAD315",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "Indonesia Vs Papua New Guinea",
+            "tournament": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
+            "match_id": 142316,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "14 May 2026 06:00 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142316_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC-(1)_1778270636874.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)_1778146879783.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142316_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Indonesia",
+                    "shortName": "INA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-INDA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#dc3f31",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Papua New Guinea",
+                    "shortName": "PNG",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PNG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f8dd5a",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "Scotland Vs Usa",
+            "tournament": "ICC CWC League 2 Nepal, 2026",
+            "match_id": 142290,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "14 May 2026 09:15 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142290_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC-Men's-Cricket-World-Cup-League-2.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC_web.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/ICC-CWC-old-sporty.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142290_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Scotland",
+                    "shortName": "SCO",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SCO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1672c1",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "USA",
+                    "shortName": "USA",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-USA@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#132f86",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "Cook Islands Vs Japan",
+            "tournament": "ICC Men's T20 WC EAP Sub-regional Qualifier A + B",
+            "match_id": 142317,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "14 May 2026 10:30 AM",
+            "startDate": "01 January 1970 05:30 AM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142317_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC-(1)_1778270636874.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)_1778146879769.png",
+                "SPORT_BY_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/Old-Sporty-(1080x1440)_1778146879783.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142317_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Cook Islands",
+                    "shortName": "CI",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CKI@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1d388d",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Japan",
+                    "shortName": "JPN",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-JPN@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#9a0009",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
             "STREAMING_CDN": {
                 "language": "BLOODY_SWEET",
                 "Primary_Playback_URL": null
@@ -3019,6 +3087,50 @@
         },
         {
             "category": "Cricket",
+            "title": "Bangladesh Vs Pakistan",
+            "tournament": "Pakistan tour of Bangladesh, 2026",
+            "short_name": "PAK tour of BAN",
+            "match_id": 142160,
+            "status": "COMPLETED",
+            "startTime": "08 May 2026 09:30 AM",
+            "startDate": "08 May 2026 05:30 AM",
+            "endDate": "20 May 2026 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-Sporty-.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142160_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Pakistan-tour-of-Bangladesh-2026-Sporty-.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142160_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 25,
+                    "name": "Bangladesh",
+                    "shortName": "BAN",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BAN@2x.png",
+                    "color": "#397b46"
+                },
+                {
+                    "id": 192,
+                    "name": "Pakistan",
+                    "shortName": "PAK",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PAK@2x.png",
+                    "color": "#559830"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
             "title": "Mis E Ainak Region Vs Boost Region",
             "tournament": "Super Cola National T20 Cup, 2026",
             "short_name": "National T20 Cup",
@@ -3106,6 +3218,50 @@
             "auto_streams": null
         },
         {
+            "category": "Football",
+            "title": "Rc Celta Vs Levante",
+            "tournament": "LALIGA 2025-26",
+            "short_name": "LALIGA 2025-26",
+            "match_id": 131182,
+            "status": "NOT_STARTED",
+            "startTime": "12 May 2026 10:30 PM",
+            "startDate": "15 August 2025 05:30 AM",
+            "endDate": "24 May 2026 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/131182_5427_CEV_LE_FC-App.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/131182_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/131182_5427_CEV_LE_FC-App.png",
+                "PLAYBACK": null,
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/131182_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "teams": [
+                {
+                    "id": 748,
+                    "name": "RC Celta",
+                    "shortName": "CEV",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-CEV@2x.png",
+                    "color": "#b1d4f5"
+                },
+                {
+                    "id": 11736,
+                    "name": "Levante",
+                    "shortName": "LE",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-LET@2x.png",
+                    "color": "#598bc1"
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "adfree_stream": null,
+            "dai_stream": null,
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
             "category": "Cricket",
             "title": "Nepal Vs Scotland",
             "tournament": "ICC CWC League 2 Nepal, 2026",
@@ -3150,82 +3306,38 @@
             "auto_streams": null
         },
         {
-            "category": "Cricket",
-            "title": "Sri Lanka Women Vs New Zealand A Women",
-            "tournament": "New Zealand Women’s A tour of Sri Lanka, 2026",
-            "short_name": "SL w vs NZ A w",
-            "match_id": 142509,
-            "status": "COMPLETED",
-            "startTime": "12 May 2026 10:00 AM",
-            "startDate": "12 May 2026 05:30 AM",
-            "endDate": "25 May 2026 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142509_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Mini-Match-Card-(1080x810)-(1)_1778255679175.png",
-                "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142509_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "teams": [
-                {
-                    "id": 692,
-                    "name": "Sri Lanka Women",
-                    "shortName": "SL-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRL@2x.png",
-                    "color": "#164fad"
-                },
-                {
-                    "id": 8326,
-                    "name": "New Zealand A Women",
-                    "shortName": "NZ-A-W",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png",
-                    "color": "#F2CECF"
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "adfree_stream": null,
-            "dai_stream": null,
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Kabaddi",
-            "title": "Roaring Rhinos Vs Raging Bulls",
-            "tournament": "Young Star Kabaddi League 2026",
-            "short_name": "YSKL",
-            "match_id": 142473,
+            "category": "Football",
+            "title": "Bengaluru Football Club Vs Punjab Fc Junior",
+            "tournament": "Dream Sports Championship Football 2026",
+            "short_name": "DSC Football",
+            "match_id": 142373,
             "status": "STARTED",
-            "startTime": "12 May 2026 03:00 PM",
-            "startDate": "09 May 2026 05:30 AM",
-            "endDate": "15 May 2026 11:45 PM",
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+            "startTime": "12 May 2026 04:00 PM",
+            "startDate": "03 May 2026 05:30 AM",
+            "endDate": "14 May 2026 11:45 PM",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142473_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Young-star-Kabaddi_Web.jpg",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/142373_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/Dream-Sports-Championship-Football-2026-old-_1777753488910.png",
                 "PLAYBACK": null,
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142473_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/142373_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "teams": [
                 {
-                    "id": 12281,
-                    "name": "Roaring Rhinos",
-                    "shortName": "RRR",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-RRR@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-RRR@2x.png",
-                    "color": "#AC5EE1"
+                    "id": 12263,
+                    "name": "Bengaluru Football Club",
+                    "shortName": "BFC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT2@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/DEF-FT2@2x.png",
+                    "color": "#080859"
                 },
                 {
-                    "id": 12278,
-                    "name": "Raging Bulls",
-                    "shortName": "RB",
-                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-RB@2x.png",
-                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/kb-flags/FC-RB@2x.png",
-                    "color": "#84E3C7"
+                    "id": 12270,
+                    "name": "Punjab FC Junior",
+                    "shortName": "PFC",
+                    "logo": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PUNJ@2x.png",
+                    "flag": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-PUNJ@2x.png",
+                    "color": "#080859"
                 }
             ],
             "language": "BLOODY_SWEET",
