@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="143538" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPL-Indo-Nepal-T20_fc-web_1782227515719.jpg" group-title="Cricket", KPL Indo Nepal T20 2026: Kcc Vs Rml Sports (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/143538_english_hls_4aa183e4be91805_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143629" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143629_6150_NAM_VID_fc-web.jpg" group-title="Cricket", Vidarbha Cricket Association tour of Namibia: Namibia Vs Vidarbha (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
@@ -11,11 +7,11 @@ https://in-mc-flive.fancode.com/mumbai/143629_english_hls_b52f22df0521309_1ta-di
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-flive.fancode.com/mumbai/143588_english_hls_f77d103b6628288_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139464" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web_1782801083974.jpg" group-title="Formula 1", F1 PIRELLI BRITISH GRAND PRIX 2026: Sprint (ENGLISH) [DRM]
+#EXTINF:-1 tvg-id="143669" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/John-Deere-Classic_Web-match-card.png" group-title="Golf", John Deere Classic 2026: Day 3   Main Feed (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/139464_english_dash_90941_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-id="143674" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg" group-title="Motorsports", F1 Kids 2026: F1 Kids 2026 (ENGLISH)
+https://in-mc-flive.fancode.com/mumbai/143669_english_hls_1721bf9bc447432_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="143623" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/G_1782471446344.png" group-title="Motorsports", DTM 2026: Dtm Race 1   Norisring (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/143674_english_hls_d23c685e1e26142_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/143623_english_hls_4d6448ffec97837_1ta-di_h264/index.m3u8
