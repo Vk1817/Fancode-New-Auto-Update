@@ -7,11 +7,15 @@ https://in-mc-flive.fancode.com/mumbai/143538_english_hls_4aa183e4be91805_1ta-di
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-flive.fancode.com/mumbai/143629_english_hls_b52f22df0521309_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="139723" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F3_Austria_web.jpg" group-title="Motorsports", F3 GREAT BRITAIN 2026: Sprint Race (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/139723_english_hls_03f3ad310468079_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="143588" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/143588_6148_AM_MAK_fc-web_1782725011430.jpg" group-title="Cricket", Shpageeza Cricket League, 2026: Mis E Ainak Knights Vs Amo Sharks (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-flive.fancode.com/mumbai/143588_english_hls_f77d103b6628288_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="139464" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/British-Grand-Prix_fc-web_1782801083974.jpg" group-title="Formula 1", F1 PIRELLI BRITISH GRAND PRIX 2026: Sprint (ENGLISH) [DRM]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/139464_english_dash_90941_1drmta-di_h264/index.mpd
+#EXTINF:-1 tvg-id="143674" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/F1_Kids_China_GP_web_1777734590623.jpg" group-title="Motorsports", F1 Kids 2026: F1 Kids 2026 (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/143674_english_hls_d23c685e1e26142_1ta-di_h264/index.m3u8
