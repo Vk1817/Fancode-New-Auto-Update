@@ -2,7 +2,7 @@
     "Author": "DOCTOR_STRANGE",
     "Telegram": "https://t.me/jitendraunatti_github",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:21:03 PM 14-07-2026",
+    "last_updated": "10:21:03 PM 14-07-2026",
     "headers": {
         "User-Agent": "ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1",
         "Referer": "https://fancode.com/"
@@ -278,11 +278,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/240p.m3u8?hdntl=Expires=1784118365~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzjZRWok53FuwuxfctWxJnPmmGiaD2RikL-howUnqnQAfsyeMJap3mn7KBCdt2_LdVKqQoLbma2pdyiiveAon9YK\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/360p.m3u8?hdntl=Expires=1784118365~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzjZRWok53FuwuxfctWxJnPmmGiaD2RikL-howUnqnQAfsyeMJap3mn7KBCdt2_LdVKqQoLbma2pdyiiveAon9YK\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/480p.m3u8?hdntl=Expires=1784118365~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzjZRWok53FuwuxfctWxJnPmmGiaD2RikL-howUnqnQAfsyeMJap3mn7KBCdt2_LdVKqQoLbma2pdyiiveAon9YK\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/540p.m3u8?hdntl=Expires=1784118365~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzjZRWok53FuwuxfctWxJnPmmGiaD2RikL-howUnqnQAfsyeMJap3mn7KBCdt2_LdVKqQoLbma2pdyiiveAon9YK\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/720p.m3u8?hdntl=Expires=1784118365~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzjZRWok53FuwuxfctWxJnPmmGiaD2RikL-howUnqnQAfsyeMJap3mn7KBCdt2_LdVKqQoLbma2pdyiiveAon9YK\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784118365~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzjZRWok53FuwuxfctWxJnPmmGiaD2RikL-howUnqnQAfsyeMJap3mn7KBCdt2_LdVKqQoLbma2pdyiiveAon9YK",
-                    "cookie": "hdntl=Expires=1784118365~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzjZRWok53FuwuxfctWxJnPmmGiaD2RikL-howUnqnQAfsyeMJap3mn7KBCdt2_LdVKqQoLbma2pdyiiveAon9YK",
-                    "cookie_valid": "1784118365",
-                    "create_date": "Tuesday, July 14, 2026, 5:56:03 PM",
-                    "expire_date": "Wednesday, July 15, 2026, 5:56:05 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/240p.m3u8?hdntl=Expires=1784133006~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzgX8w0ndMYNImm5I_FKQVLd9al_KzL2Z3nQ8CR5T5fiWCuDVOWPjv32WFO8w5LNtaGyuN37-jEOaTEC7eP3Tx8J\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/360p.m3u8?hdntl=Expires=1784133006~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzgX8w0ndMYNImm5I_FKQVLd9al_KzL2Z3nQ8CR5T5fiWCuDVOWPjv32WFO8w5LNtaGyuN37-jEOaTEC7eP3Tx8J\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/480p.m3u8?hdntl=Expires=1784133006~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzgX8w0ndMYNImm5I_FKQVLd9al_KzL2Z3nQ8CR5T5fiWCuDVOWPjv32WFO8w5LNtaGyuN37-jEOaTEC7eP3Tx8J\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/540p.m3u8?hdntl=Expires=1784133006~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzgX8w0ndMYNImm5I_FKQVLd9al_KzL2Z3nQ8CR5T5fiWCuDVOWPjv32WFO8w5LNtaGyuN37-jEOaTEC7eP3Tx8J\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/720p.m3u8?hdntl=Expires=1784133006~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzgX8w0ndMYNImm5I_FKQVLd9al_KzL2Z3nQ8CR5T5fiWCuDVOWPjv32WFO8w5LNtaGyuN37-jEOaTEC7eP3Tx8J\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784133006~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzgX8w0ndMYNImm5I_FKQVLd9al_KzL2Z3nQ8CR5T5fiWCuDVOWPjv32WFO8w5LNtaGyuN37-jEOaTEC7eP3Tx8J",
+                    "cookie": "hdntl=Expires=1784133006~_GO=Generated~acl=/mumbai/143491_english_hls_a60884f83292633_1ta-di_h264/*~Signature=AfBeBzgX8w0ndMYNImm5I_FKQVLd9al_KzL2Z3nQ8CR5T5fiWCuDVOWPjv32WFO8w5LNtaGyuN37-jEOaTEC7eP3Tx8J",
+                    "cookie_valid": "1784133006",
+                    "create_date": "Tuesday, July 14, 2026, 10:00:04 PM",
+                    "expire_date": "Wednesday, July 15, 2026, 10:00:06 PM",
                     "language": "ENGLISH"
                 }
             ]
@@ -370,11 +370,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/240p.m3u8?hdntl=Expires=1784119865~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzgXqVgknlmTixf5l0YPdIfE6SqfV7T5vkNsgSqE0Thj02bsTlZ51N5TphFsc4JLnH6vFtRasG46iX9Wzb7FYJsC\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/360p.m3u8?hdntl=Expires=1784119865~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzgXqVgknlmTixf5l0YPdIfE6SqfV7T5vkNsgSqE0Thj02bsTlZ51N5TphFsc4JLnH6vFtRasG46iX9Wzb7FYJsC\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/480p.m3u8?hdntl=Expires=1784119865~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzgXqVgknlmTixf5l0YPdIfE6SqfV7T5vkNsgSqE0Thj02bsTlZ51N5TphFsc4JLnH6vFtRasG46iX9Wzb7FYJsC\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/540p.m3u8?hdntl=Expires=1784119865~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzgXqVgknlmTixf5l0YPdIfE6SqfV7T5vkNsgSqE0Thj02bsTlZ51N5TphFsc4JLnH6vFtRasG46iX9Wzb7FYJsC\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/720p.m3u8?hdntl=Expires=1784119865~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzgXqVgknlmTixf5l0YPdIfE6SqfV7T5vkNsgSqE0Thj02bsTlZ51N5TphFsc4JLnH6vFtRasG46iX9Wzb7FYJsC\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784119865~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzgXqVgknlmTixf5l0YPdIfE6SqfV7T5vkNsgSqE0Thj02bsTlZ51N5TphFsc4JLnH6vFtRasG46iX9Wzb7FYJsC",
-                    "cookie": "hdntl=Expires=1784119865~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzgXqVgknlmTixf5l0YPdIfE6SqfV7T5vkNsgSqE0Thj02bsTlZ51N5TphFsc4JLnH6vFtRasG46iX9Wzb7FYJsC",
-                    "cookie_valid": "1784119865",
-                    "create_date": "Tuesday, July 14, 2026, 6:21:02 PM",
-                    "expire_date": "Wednesday, July 15, 2026, 6:21:05 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/240p.m3u8?hdntl=Expires=1784134266~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzieWGbHfrWfhEl3SGypbWKp1YKll_Txmd1_vaN4Che1Rll295cnSFXpCnWYivJlCvvQwVRD6EX0r-nYYU5vOYQI\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/360p.m3u8?hdntl=Expires=1784134266~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzieWGbHfrWfhEl3SGypbWKp1YKll_Txmd1_vaN4Che1Rll295cnSFXpCnWYivJlCvvQwVRD6EX0r-nYYU5vOYQI\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/480p.m3u8?hdntl=Expires=1784134266~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzieWGbHfrWfhEl3SGypbWKp1YKll_Txmd1_vaN4Che1Rll295cnSFXpCnWYivJlCvvQwVRD6EX0r-nYYU5vOYQI\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/540p.m3u8?hdntl=Expires=1784134266~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzieWGbHfrWfhEl3SGypbWKp1YKll_Txmd1_vaN4Che1Rll295cnSFXpCnWYivJlCvvQwVRD6EX0r-nYYU5vOYQI\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/720p.m3u8?hdntl=Expires=1784134266~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzieWGbHfrWfhEl3SGypbWKp1YKll_Txmd1_vaN4Che1Rll295cnSFXpCnWYivJlCvvQwVRD6EX0r-nYYU5vOYQI\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/1080p.m3u8?hdntl=Expires=1784134266~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzieWGbHfrWfhEl3SGypbWKp1YKll_Txmd1_vaN4Che1Rll295cnSFXpCnWYivJlCvvQwVRD6EX0r-nYYU5vOYQI",
+                    "cookie": "hdntl=Expires=1784134266~_GO=Generated~acl=/mumbai/143484_english_hls_ce9011c07f27534_1ta-di_h264/*~Signature=AfBeBzieWGbHfrWfhEl3SGypbWKp1YKll_Txmd1_vaN4Che1Rll295cnSFXpCnWYivJlCvvQwVRD6EX0r-nYYU5vOYQI",
+                    "cookie_valid": "1784134266",
+                    "create_date": "Tuesday, July 14, 2026, 10:21:03 PM",
+                    "expire_date": "Wednesday, July 15, 2026, 10:21:06 PM",
                     "language": "ENGLISH"
                 }
             ]
@@ -680,298 +680,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Estonia Vs Turkiye",
-            "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "short_name": null,
-            "match_id": 4246569,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "13 July 2026 07:00 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4246569_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC_1771925153080.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4246569_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Estonia",
-                    "shortName": "EST",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#3d6aa6",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Turkiye",
-                    "shortName": "TUR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TURK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#f04839",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "West Indies Vs New Zealand",
-            "tournament": "New Zealand tour of West Indies, 2026",
-            "short_name": null,
-            "match_id": 143604,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "14 July 2026 12:00 AM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143604_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143604_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "West Indies",
-                    "shortName": "WI",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#7B0041",
-                    "cricketScore": [
-                        {
-                            "runs": 138,
-                            "overs": "36",
-                            "balls": "216",
-                            "status": "COMPLETED",
-                            "wickets": 10
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "New Zealand",
-                    "shortName": "NZ",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#1d2c6b",
-                    "cricketScore": [
-                        {
-                            "runs": 141,
-                            "overs": "32.4",
-                            "balls": "196",
-                            "status": "IN_PROGRESS",
-                            "wickets": 5
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "Belgium Vs Hungary",
-            "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "short_name": null,
-            "match_id": 4246582,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "14 July 2026 02:00 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4246582_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC_1771925153080.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4246582_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Belgium",
-                    "shortName": "BEL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b3a91d",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Hungary",
-                    "shortName": "HUN",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#326b14",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "Serbia Vs Estonia",
-            "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
-            "short_name": null,
-            "match_id": 4246581,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "14 July 2026 02:00 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4246581_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC_1771925153080.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4246581_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Serbia",
-                    "shortName": "SER",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRB@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#d6ae46",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Estonia",
-                    "shortName": "EST",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#3d6aa6",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
             "title": "Tbc Vs Tbc",
             "tournament": "Shpageeza Cricket League, 2026",
             "short_name": null,
@@ -1228,6 +936,229 @@
                     "isWinner": null,
                     "color": "#FF0000",
                     "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "West Indies Vs New Zealand",
+            "tournament": "New Zealand tour of West Indies, 2026",
+            "short_name": null,
+            "match_id": 143604,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "14 July 2026 12:00 AM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/143604_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/WI-vs-NZ.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/NZ-vs-WI_Odi_fc-web.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/143604_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "West Indies",
+                    "shortName": "WI",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WIN@2x.png"
+                    },
+                    "isWinner": false,
+                    "color": "#7B0041",
+                    "cricketScore": [
+                        {
+                            "runs": 138,
+                            "overs": "36",
+                            "balls": "216",
+                            "status": "COMPLETED",
+                            "wickets": 10
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "New Zealand",
+                    "shortName": "NZ",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NZC@2x.png"
+                    },
+                    "isWinner": true,
+                    "color": "#1d2c6b",
+                    "cricketScore": [
+                        {
+                            "runs": 141,
+                            "overs": "32.4",
+                            "balls": "196",
+                            "status": "IN_PROGRESS",
+                            "wickets": 5
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "Belgium Vs Hungary",
+            "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+            "short_name": null,
+            "match_id": 4246582,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "14 July 2026 02:00 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4246582_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC_1771925153080.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4246582_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Belgium",
+                    "shortName": "BEL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BEL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b3a91d",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Hungary",
+                    "shortName": "HUN",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-HUNG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#326b14",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "Serbia Vs Estonia",
+            "tournament": "ICC Men's T20 World Cup Europe Sub Regional Qualifier B, 2026",
+            "short_name": null,
+            "match_id": 4246581,
+            "status": "COMPLETED",
+            "streamingStatus": "COMPLETED",
+            "startTime": "14 July 2026 02:00 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4246581_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC_1771925153080.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/113.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4246581_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Serbia",
+                    "shortName": "SER",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SRB@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#d6ae46",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Estonia",
+                    "shortName": "EST",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESTO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#3d6aa6",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -2883,6 +2814,75 @@
                     },
                     "isWinner": null,
                     "color": "#FF0000",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "Galle Gallants Vs Colombo Kaps",
+            "tournament": "Lanka Premier League, 2026",
+            "short_name": null,
+            "match_id": 4246711,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "18 July 2026 07:30 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4246711_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Lanka-Premier-League-T20-2026.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4246711_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Galle Gallants",
+                    "shortName": "GG",
+                    "flag": {
+                        "src": "https://www.fancode.com/skillup-uploads/cms-media/Galle-Gallants.png"
+                    },
+                    "isWinner": null,
+                    "color": "#3D900C",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Colombo Kaps",
+                    "shortName": "CK",
+                    "flag": {
+                        "src": "https://www.fancode.com/skillup-uploads/cms-media/Colombo-KAPS.png"
+                    },
+                    "isWinner": null,
+                    "color": "#dc37c2",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
