@@ -3,7 +3,7 @@
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-flive.fancode.com/mumbai/4247428_english_hls_4a6e5b769516666_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="143519" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Mifel-Tennis-Open_fc-web.jpg" group-title="Tennis", ATP 250 - Mifel Tennis Open by Telcel Oppo 2026: Day 4 (ENGLISH)
+#EXTINF:-1 tvg-id="4248191" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248191_53019_PP_AS_fc-web.jpg" group-title="Cricket", Asian Legends League, 2026: Pakistan Panthers Vs Asian Stars (ENGLISH) [DRM]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/143519_english_hls_02620e0da644204_1ta-di_h264/index.m3u8
+https://in-ak-flive.akamaized.net/mumbai/4248191_english_dash_1079_1drmta-di_h264/index.mpd
