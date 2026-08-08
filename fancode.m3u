@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4247988" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247988_53005_CDK_ODW_fc-Web.png" group-title="Cricket", Delhi Premier League, 2026: Outer Delhi Warriors Vs Central Delhi Kings (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4247988_english_hls_d4857c6d8d79210_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4248187" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_Match_Card.png" group-title="Golf", Wyndham Championship 2026: Day 3   Main Feed (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
