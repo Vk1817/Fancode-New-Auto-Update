@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4247573" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247573_53004_ESL_LET_FC-Web.png" group-title="Football", LALIGA 2026-27: Rcd Espanyol Vs Levante (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4247573_english_hls_53f83a33dd31486_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4248409" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/FedEx-St.-Jude-Championship-2026_Web_1080_x_810.jpg" group-title="Golf", FedEx St. Jude Championship 2026: Main Feed   Day 4 (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.7.0 (Linux;Android 10) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
