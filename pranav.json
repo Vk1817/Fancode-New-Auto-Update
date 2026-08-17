@@ -2,15 +2,318 @@
     "Author": "DOCTOR_STRANGE",
     "Telegram": "https://t.me/jitendraunatti_github",
     "name": "FanCode Live Matches API",
-    "last_updated": "06:28:12 PM 17-08-2026",
+    "last_updated": "07:35:29 PM 17-08-2026",
     "headers": {
         "User-Agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
         "Referer": "https://fancode.com/"
     },
-    "total_matches": 40,
-    "live_matches": 3,
-    "upcoming_matches": 37,
+    "total_matches": 41,
+    "live_matches": 5,
+    "upcoming_matches": 36,
     "matches": [
+        {
+            "category": "Cricket",
+            "title": "West Delhi Lions Vs South Delhi Superstarz",
+            "tournament": "Delhi Premier League, 2026",
+            "short_name": null,
+            "match_id": 4247993,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "17 August 2026 07:00 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4247993_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League-2026-Mens.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4247993_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "West Delhi Lions",
+                    "shortName": "WDL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WDL@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ed4d0b",
+                    "cricketScore": [
+                        {
+                            "runs": 51,
+                            "overs": "6",
+                            "balls": "36",
+                            "status": "IN_PROGRESS",
+                            "wickets": 1
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "South Delhi Superstarz",
+                    "shortName": "SDS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SDSW@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#921b36",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "ENGLISH",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/index.m3u8",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/index.m3u8",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/index.m3u8",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/index.m3u8",
+                "Akamai_cdn": "Unavailable",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "ENGLISH",
+                "X-Served-By": "WALTER",
+                "backup": {
+                    "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/index.m3u8",
+                    "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/index.m3u8",
+                    "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/index.m3u8"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/240p.m3u8?hdntl=Expires=1786975851~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNRraUXHk43Tb-TG3lWd12TfqJbwejfCMP_ssvChuGtt8J539fg3Y77zpPLejT7UAJPRGJmhtbH9X-GLykTzzAH\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/360p.m3u8?hdntl=Expires=1786975851~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNRraUXHk43Tb-TG3lWd12TfqJbwejfCMP_ssvChuGtt8J539fg3Y77zpPLejT7UAJPRGJmhtbH9X-GLykTzzAH\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/480p.m3u8?hdntl=Expires=1786975851~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNRraUXHk43Tb-TG3lWd12TfqJbwejfCMP_ssvChuGtt8J539fg3Y77zpPLejT7UAJPRGJmhtbH9X-GLykTzzAH\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/540p.m3u8?hdntl=Expires=1786975851~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNRraUXHk43Tb-TG3lWd12TfqJbwejfCMP_ssvChuGtt8J539fg3Y77zpPLejT7UAJPRGJmhtbH9X-GLykTzzAH\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/720p.m3u8?hdntl=Expires=1786975851~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNRraUXHk43Tb-TG3lWd12TfqJbwejfCMP_ssvChuGtt8J539fg3Y77zpPLejT7UAJPRGJmhtbH9X-GLykTzzAH\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786975851~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNRraUXHk43Tb-TG3lWd12TfqJbwejfCMP_ssvChuGtt8J539fg3Y77zpPLejT7UAJPRGJmhtbH9X-GLykTzzAH",
+                    "cookie": "hdntl=Expires=1786975851~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNRraUXHk43Tb-TG3lWd12TfqJbwejfCMP_ssvChuGtt8J539fg3Y77zpPLejT7UAJPRGJmhtbH9X-GLykTzzAH",
+                    "cookie_valid": "1786975851",
+                    "create_date": "Monday, August 17, 2026, 7:35:20 PM",
+                    "expire_date": "Monday, August 17, 2026, 7:40:51 PM",
+                    "language": "ENGLISH"
+                }
+            ]
+        },
+        {
+            "category": "Cricket",
+            "title": "Noida Kings Vs Lucknow Falcons",
+            "tournament": "Uttar Pradesh T20 League, 2026",
+            "short_name": null,
+            "match_id": 4248333,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "17 August 2026 07:30 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248333_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/UP-T20.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248333_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Noida Kings",
+                    "shortName": "NOI",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOIDS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1aa231",
+                    "cricketScore": [
+                        {
+                            "runs": 1,
+                            "overs": "0.3",
+                            "balls": "3",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Lucknow Falcons",
+                    "shortName": "LCK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#8458f7",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "HINDI",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/index.m3u8",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/index.m3u8",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/index.m3u8",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/index.m3u8",
+                "Akamai_cdn": "Unavailable",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "HINDI",
+                "X-Served-By": "WALTER",
+                "backup": {
+                    "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/index.m3u8",
+                    "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/index.m3u8",
+                    "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/index.m3u8"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/240p.m3u8?hdntl=Expires=1786975858~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWMQLDfQgykwYhxtcZ6ATR27vsV5t8S2D8M--zoo3NSEuGlKyhOPFvsUJZiiKI-KsS1WWcntlcyqb_ELBEMIkeYK\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/360p.m3u8?hdntl=Expires=1786975858~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWMQLDfQgykwYhxtcZ6ATR27vsV5t8S2D8M--zoo3NSEuGlKyhOPFvsUJZiiKI-KsS1WWcntlcyqb_ELBEMIkeYK\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/480p.m3u8?hdntl=Expires=1786975858~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWMQLDfQgykwYhxtcZ6ATR27vsV5t8S2D8M--zoo3NSEuGlKyhOPFvsUJZiiKI-KsS1WWcntlcyqb_ELBEMIkeYK\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/540p.m3u8?hdntl=Expires=1786975858~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWMQLDfQgykwYhxtcZ6ATR27vsV5t8S2D8M--zoo3NSEuGlKyhOPFvsUJZiiKI-KsS1WWcntlcyqb_ELBEMIkeYK\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/720p.m3u8?hdntl=Expires=1786975858~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWMQLDfQgykwYhxtcZ6ATR27vsV5t8S2D8M--zoo3NSEuGlKyhOPFvsUJZiiKI-KsS1WWcntlcyqb_ELBEMIkeYK\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786975858~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWMQLDfQgykwYhxtcZ6ATR27vsV5t8S2D8M--zoo3NSEuGlKyhOPFvsUJZiiKI-KsS1WWcntlcyqb_ELBEMIkeYK",
+                    "cookie": "hdntl=Expires=1786975858~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWMQLDfQgykwYhxtcZ6ATR27vsV5t8S2D8M--zoo3NSEuGlKyhOPFvsUJZiiKI-KsS1WWcntlcyqb_ELBEMIkeYK",
+                    "cookie_valid": "1786975858",
+                    "create_date": "Monday, August 17, 2026, 7:35:28 PM",
+                    "expire_date": "Monday, August 17, 2026, 7:40:58 PM",
+                    "language": "HINDI"
+                }
+            ]
+        },
+        {
+            "category": "Cricket",
+            "title": "Noida Kings Vs Lucknow Falcons",
+            "tournament": "Uttar Pradesh T20 League, 2026",
+            "short_name": null,
+            "match_id": 4248333,
+            "status": "LIVE",
+            "streamingStatus": "STARTED",
+            "startTime": "17 August 2026 07:30 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248333_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
+                "PLAYBACK": "",
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/UP-T20.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248333_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Noida Kings",
+                    "shortName": "NOI",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOIDS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1aa231",
+                    "cricketScore": [
+                        {
+                            "runs": 1,
+                            "overs": "0.3",
+                            "balls": "3",
+                            "status": "IN_PROGRESS",
+                            "wickets": 0
+                        }
+                    ],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": true
+                        }
+                    }
+                },
+                {
+                    "name": "Lucknow Falcons",
+                    "shortName": "LCK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKO@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#8458f7",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BHOJPURI",
+            "STREAMING_CDN": {
+                "is_drm": false,
+                "Primary_Playback_URL": "https://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/index.m3u8",
+                "fancode_cdn": "https://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/index.m3u8",
+                "fancode_bd_cdn": "https://bd-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/index.m3u8",
+                "fancode_np_cdn": "https://np-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/index.m3u8",
+                "fancode_lk_cdn": "https://lk-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/index.m3u8",
+                "Akamai_cdn": "Unavailable",
+                "dai_google_cdn": "Unavailable",
+                "cloudfront_cdn": "Unavailable",
+                "sony_cdn": "Unavailable",
+                "language": "BHOJPURI",
+                "X-Served-By": "WALTER",
+                "backup": {
+                    "fancode_cdn": "https://in-mc-fblive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/index.m3u8",
+                    "fancode_cdn_v1": "https://in-mc-pdlive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/index.m3u8",
+                    "fancode_dai_cdn": "https://dai-partner.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/index.m3u8"
+                }
+            },
+            "auto_streams": [
+                {
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/240p.m3u8?hdntl=Expires=1786975859~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWN0AX0KgZTY1jkMmKLAOeOxanAAQ8om9aZJzJrXXYVX9VEVkPylAkCXolrq880gMhGwJP_uAVWxpcvIG6989zcA\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/360p.m3u8?hdntl=Expires=1786975859~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWN0AX0KgZTY1jkMmKLAOeOxanAAQ8om9aZJzJrXXYVX9VEVkPylAkCXolrq880gMhGwJP_uAVWxpcvIG6989zcA\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/480p.m3u8?hdntl=Expires=1786975859~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWN0AX0KgZTY1jkMmKLAOeOxanAAQ8om9aZJzJrXXYVX9VEVkPylAkCXolrq880gMhGwJP_uAVWxpcvIG6989zcA\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/540p.m3u8?hdntl=Expires=1786975859~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWN0AX0KgZTY1jkMmKLAOeOxanAAQ8om9aZJzJrXXYVX9VEVkPylAkCXolrq880gMhGwJP_uAVWxpcvIG6989zcA\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/720p.m3u8?hdntl=Expires=1786975859~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWN0AX0KgZTY1jkMmKLAOeOxanAAQ8om9aZJzJrXXYVX9VEVkPylAkCXolrq880gMhGwJP_uAVWxpcvIG6989zcA\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786975859~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWN0AX0KgZTY1jkMmKLAOeOxanAAQ8om9aZJzJrXXYVX9VEVkPylAkCXolrq880gMhGwJP_uAVWxpcvIG6989zcA",
+                    "cookie": "hdntl=Expires=1786975859~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWN0AX0KgZTY1jkMmKLAOeOxanAAQ8om9aZJzJrXXYVX9VEVkPylAkCXolrq880gMhGwJP_uAVWxpcvIG6989zcA",
+                    "cookie_valid": "1786975859",
+                    "create_date": "Monday, August 17, 2026, 7:35:29 PM",
+                    "expire_date": "Monday, August 17, 2026, 7:40:59 PM",
+                    "language": "BHOJPURI"
+                }
+            ]
+        },
         {
             "category": "Cricket",
             "title": "Spain Vs Luxembourg",
@@ -44,11 +347,11 @@
                     "color": "#ffb400",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 115,
+                            "overs": "14",
+                            "balls": "84",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 3
                         }
                     ],
                     "kabaddiScore": null,
@@ -145,11 +448,11 @@
                     "color": "#1c50b1",
                     "cricketScore": [
                         {
-                            "runs": 0,
-                            "overs": "0",
-                            "balls": "0",
+                            "runs": 105,
+                            "overs": "14.3",
+                            "balls": "87",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 4
                         }
                     ],
                     "kabaddiScore": null,
@@ -305,144 +608,6 @@
                     "language": "ENGLISH"
                 }
             ]
-        },
-        {
-            "category": "Cricket",
-            "title": "West Delhi Lions Vs South Delhi Superstarz",
-            "tournament": "Delhi Premier League, 2026",
-            "short_name": null,
-            "match_id": 4247993,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "17 August 2026 07:00 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4247993_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League-2026-Mens.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4247993_53005_WDL_SDS_fc-Web_1786618029956.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4247993_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "West Delhi Lions",
-                    "shortName": "WDL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-WDL@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ed4d0b",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "South Delhi Superstarz",
-                    "shortName": "SDS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-SDSW@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#921b36",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "Noida Kings Vs Lucknow Falcons",
-            "tournament": "Uttar Pradesh T20 League, 2026",
-            "short_name": null,
-            "match_id": 4248333,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "17 August 2026 07:30 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248333_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/UP-T20.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248333_53029_NOI_LCK_FC-Web_1786702851256.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248333_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Noida Kings",
-                    "shortName": "NOI",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NOIDS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1aa231",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Lucknow Falcons",
-                    "shortName": "LCK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-LKO@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#8458f7",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
         },
         {
             "category": "Cricket",
@@ -791,6 +956,144 @@
         },
         {
             "category": "Cricket",
+            "title": "East Delhi Riders Vs Central Delhi Kings",
+            "tournament": "Delhi Premier League, 2026",
+            "short_name": null,
+            "match_id": 4247992,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "18 August 2026 07:00 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4247992_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League-2026-Mens.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4247992_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "East Delhi Riders",
+                    "shortName": "EDR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#e7993a",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Central Delhi Kings",
+                    "shortName": "CDK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0082cb",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "Gaur Gorakhpur Lions Vs Kashi Rudras",
+            "tournament": "Uttar Pradesh T20 League, 2026",
+            "short_name": null,
+            "match_id": 4248338,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "18 August 2026 07:30 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248338_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/UP-T20.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248338_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Gaur Gorakhpur Lions",
+                    "shortName": "GOR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GORK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#5d42cd",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Kashi Rudras",
+                    "shortName": "KAS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KASHR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b46f2a",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
             "title": "Germany Vs Greece",
             "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
             "short_name": null,
@@ -928,75 +1231,6 @@
             "auto_streams": null
         },
         {
-            "category": "Cricket",
-            "title": "East Delhi Riders Vs Central Delhi Kings",
-            "tournament": "Delhi Premier League, 2026",
-            "short_name": null,
-            "match_id": 4247992,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "18 August 2026 07:00 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4247992_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League-2026-Mens.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4247992_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "East Delhi Riders",
-                    "shortName": "EDR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e7993a",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Central Delhi Kings",
-                    "shortName": "CDK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0082cb",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
             "category": "Football",
             "title": "Sporting De Gijón Vs Ce Sabadell",
             "tournament": "LALIGA Hypermotion 2026-27",
@@ -1046,213 +1280,6 @@
                     },
                     "isWinner": null,
                     "color": "#DCDCDC",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "Gaur Gorakhpur Lions Vs Kashi Rudras",
-            "tournament": "Uttar Pradesh T20 League, 2026",
-            "short_name": null,
-            "match_id": 4248338,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "18 August 2026 07:30 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248338_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/UP-T20.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248338_53029_GOR_KAS_FC-Web_1786702851262.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248338_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Gaur Gorakhpur Lions",
-                    "shortName": "GOR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GORK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#5d42cd",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Kashi Rudras",
-                    "shortName": "KAS",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KASHR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#b46f2a",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "Czechia Vs Israel",
-            "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "short_name": null,
-            "match_id": 4248374,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "18 August 2026 06:30 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248374_53031_CZE_ISR_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248374_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248374_53031_CZE_ISR_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC_1771925153080.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248374_53031_CZE_ISR_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248374_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Czechia",
-                    "shortName": "CZE",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#074FB4",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Israel",
-                    "shortName": "ISR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ISR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#6583EF",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "Bulgaria Vs Spain",
-            "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
-            "short_name": null,
-            "match_id": 4248382,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "18 August 2026 06:30 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248382_53031_BUL_ESP_fc-web.jpg",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248382_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248382_53031_BUL_ESP_fc-web.jpg",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC_1771925153080.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248382_53031_BUL_ESP_fc-web.jpg",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248382_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Bulgaria",
-                    "shortName": "BUL",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BULG@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#32740f",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Spain",
-                    "shortName": "ESP",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#ffb400",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1411,6 +1438,144 @@
             "auto_streams": null
         },
         {
+            "category": "Cricket",
+            "title": "Czechia Vs Israel",
+            "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "short_name": null,
+            "match_id": 4248374,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "18 August 2026 06:30 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248374_53031_CZE_ISR_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248374_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248374_53031_CZE_ISR_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC_1771925153080.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248374_53031_CZE_ISR_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248374_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Czechia",
+                    "shortName": "CZE",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CZR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#074FB4",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Israel",
+                    "shortName": "ISR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ISR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#6583EF",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "Bulgaria Vs Spain",
+            "tournament": "ICC Men's T20 WC Europe Sub Regional Qualifier C, 2026",
+            "short_name": null,
+            "match_id": 4248382,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "18 August 2026 06:30 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248382_53031_BUL_ESP_fc-web.jpg",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248382_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248382_53031_BUL_ESP_fc-web.jpg",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/ICC_1771925153080.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248382_53031_BUL_ESP_fc-web.jpg",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248382_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Bulgaria",
+                    "shortName": "BUL",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-BULG@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#32740f",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Spain",
+                    "shortName": "ESP",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ESP@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#ffb400",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
             "category": "Tennis",
             "title": "Tony Trabert Stadium 3",
             "tournament": "ATP Masters Cincinnati Open 2026",
@@ -1468,176 +1633,6 @@
                     "status": {
                         "cricket": {
                             "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "Outer Delhi Warriors Vs Purani Dilli 6",
-            "tournament": "Delhi Premier League, 2026",
-            "short_name": null,
-            "match_id": 4247998,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "16 August 2026 07:00 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247998_53005_ODW_PD_fc-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4247998_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4247998_53005_ODW_PD_fc-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League-2026-Mens.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4247998_53005_ODW_PD_fc-Web.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4247998_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Outer Delhi Warriors",
-                    "shortName": "ODW",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-ODW@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#0a2346",
-                    "cricketScore": [
-                        {
-                            "runs": 219,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 5
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Purani Dilli-6",
-                    "shortName": "PD",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-PD@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#c3333e",
-                    "cricketScore": [
-                        {
-                            "runs": 198,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "IN_PROGRESS",
-                            "wickets": 6
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "Meerut Mavericks Vs Gaur Gorakhpur Lions",
-            "tournament": "Uttar Pradesh T20 League, 2026",
-            "short_name": null,
-            "match_id": 4248337,
-            "status": "COMPLETED",
-            "streamingStatus": "COMPLETED",
-            "startTime": "16 August 2026 07:30 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248337_53029_GOR_MER_FC-Web_1786702851399.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248337_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248337_53029_GOR_MER_FC-Web_1786702851399.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/UP-T20.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248337_53029_GOR_MER_FC-Web_1786702851399.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248337_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Meerut Mavericks",
-                    "shortName": "MER",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-MEERM@2x.png"
-                    },
-                    "isWinner": true,
-                    "color": "#191970",
-                    "cricketScore": [
-                        {
-                            "runs": 206,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "COMPLETED",
-                            "wickets": 6
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Gaur Gorakhpur Lions",
-                    "shortName": "GOR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-GORK@2x.png"
-                    },
-                    "isWinner": false,
-                    "color": "#5d42cd",
-                    "cricketScore": [
-                        {
-                            "runs": 170,
-                            "overs": "20",
-                            "balls": "120",
-                            "status": "IN_PROGRESS",
-                            "wickets": 9
-                        }
-                    ],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": true
                         }
                     }
                 }
@@ -2888,6 +2883,144 @@
                     },
                     "isWinner": null,
                     "color": "#528bc8",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Football",
+            "title": "Rovers Fc Women Vs East Bengal Fc Women",
+            "tournament": "AFC Women's Champions League Qualifier 2026-27",
+            "short_name": null,
+            "match_id": 4248495,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "20 August 2026 01:30 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://images.fancode.com/aig/match/v1786951996568/4248495_CASACARDS_SPORTY_APP.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248495_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://images.fancode.com/aig/match/v1786951996568/4248495_CASACARDS_SPORTY_APP.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/AFC-Womens-Champions-League.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Football-old-copy.jpg",
+                "BG_IMAGE": "https://images.fancode.com/aig/match/v1786951996568/4248495_CASACARDS_APP.png",
+                "SPORT_BY_IMAGE": "https://images.fancode.com/aig/match/v1786951996568/4248495_CASACARDS_SPORTY_APP.png",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248495_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Rovers FC Women",
+                    "shortName": "ROFC-W",
+                    "flag": {
+                        "src": "https://www.fancode.com/skillup-uploads/cms-media/Rovers300.png"
+                    },
+                    "isWinner": null,
+                    "color": "#DCDCDC",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "East Bengal FC Women",
+                    "shortName": "EBWC",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/ft-flags/FC-EBFC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#f3a42d",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
+            "title": "Kanpur Superstars Vs Kashi Rudras",
+            "tournament": "Uttar Pradesh T20 League, 2026",
+            "short_name": null,
+            "match_id": 4248339,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "20 August 2026 07:30 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248339_53029_KAN_KAS_FC-Web_1786702851312.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248339_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248339_53029_KAN_KAS_FC-Web_1786702851312.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/UP-T20.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248339_53029_KAN_KAS_FC-Web_1786702851312.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248339_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Kanpur Superstars",
+                    "shortName": "KAN",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KST@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#a29911",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Kashi Rudras",
+                    "shortName": "KAS",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KASHR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#b46f2a",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
