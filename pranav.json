@@ -2,7 +2,7 @@
     "Author": "DOCTOR_STRANGE",
     "Telegram": "https://t.me/jitendraunatti_github",
     "name": "FanCode Live Matches API",
-    "last_updated": "07:35:29 PM 17-08-2026",
+    "last_updated": "08:07:25 PM 17-08-2026",
     "headers": {
         "User-Agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
         "Referer": "https://fancode.com/"
@@ -44,11 +44,11 @@
                     "color": "#ed4d0b",
                     "cricketScore": [
                         {
-                            "runs": 51,
-                            "overs": "6",
-                            "balls": "36",
+                            "runs": 96,
+                            "overs": "10.3",
+                            "balls": "63",
                             "status": "IN_PROGRESS",
-                            "wickets": 1
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -103,11 +103,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/240p.m3u8?hdntl=Expires=1786975851~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNRraUXHk43Tb-TG3lWd12TfqJbwejfCMP_ssvChuGtt8J539fg3Y77zpPLejT7UAJPRGJmhtbH9X-GLykTzzAH\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/360p.m3u8?hdntl=Expires=1786975851~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNRraUXHk43Tb-TG3lWd12TfqJbwejfCMP_ssvChuGtt8J539fg3Y77zpPLejT7UAJPRGJmhtbH9X-GLykTzzAH\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/480p.m3u8?hdntl=Expires=1786975851~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNRraUXHk43Tb-TG3lWd12TfqJbwejfCMP_ssvChuGtt8J539fg3Y77zpPLejT7UAJPRGJmhtbH9X-GLykTzzAH\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/540p.m3u8?hdntl=Expires=1786975851~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNRraUXHk43Tb-TG3lWd12TfqJbwejfCMP_ssvChuGtt8J539fg3Y77zpPLejT7UAJPRGJmhtbH9X-GLykTzzAH\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/720p.m3u8?hdntl=Expires=1786975851~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNRraUXHk43Tb-TG3lWd12TfqJbwejfCMP_ssvChuGtt8J539fg3Y77zpPLejT7UAJPRGJmhtbH9X-GLykTzzAH\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786975851~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNRraUXHk43Tb-TG3lWd12TfqJbwejfCMP_ssvChuGtt8J539fg3Y77zpPLejT7UAJPRGJmhtbH9X-GLykTzzAH",
-                    "cookie": "hdntl=Expires=1786975851~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWNRraUXHk43Tb-TG3lWd12TfqJbwejfCMP_ssvChuGtt8J539fg3Y77zpPLejT7UAJPRGJmhtbH9X-GLykTzzAH",
-                    "cookie_valid": "1786975851",
-                    "create_date": "Monday, August 17, 2026, 7:35:20 PM",
-                    "expire_date": "Monday, August 17, 2026, 7:40:51 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/240p.m3u8?hdntl=Expires=1786977768~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWMvHWNM8XKIwwdKUFAwT2IrYCfZ6Hp99_Kxc6j-0gA0UwLT1Hp4mdl735ayj3i1PA0u3i3MGctyaG_flPwNz1oH\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/360p.m3u8?hdntl=Expires=1786977768~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWMvHWNM8XKIwwdKUFAwT2IrYCfZ6Hp99_Kxc6j-0gA0UwLT1Hp4mdl735ayj3i1PA0u3i3MGctyaG_flPwNz1oH\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/480p.m3u8?hdntl=Expires=1786977768~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWMvHWNM8XKIwwdKUFAwT2IrYCfZ6Hp99_Kxc6j-0gA0UwLT1Hp4mdl735ayj3i1PA0u3i3MGctyaG_flPwNz1oH\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/540p.m3u8?hdntl=Expires=1786977768~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWMvHWNM8XKIwwdKUFAwT2IrYCfZ6Hp99_Kxc6j-0gA0UwLT1Hp4mdl735ayj3i1PA0u3i3MGctyaG_flPwNz1oH\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/720p.m3u8?hdntl=Expires=1786977768~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWMvHWNM8XKIwwdKUFAwT2IrYCfZ6Hp99_Kxc6j-0gA0UwLT1Hp4mdl735ayj3i1PA0u3i3MGctyaG_flPwNz1oH\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786977768~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWMvHWNM8XKIwwdKUFAwT2IrYCfZ6Hp99_Kxc6j-0gA0UwLT1Hp4mdl735ayj3i1PA0u3i3MGctyaG_flPwNz1oH",
+                    "cookie": "hdntl=Expires=1786977768~_GO=Generated~acl=/mumbai/4247993_english_hls_a6a3dc6eff60840_1ta-di_h264/*~Signature=ARceAWMvHWNM8XKIwwdKUFAwT2IrYCfZ6Hp99_Kxc6j-0gA0UwLT1Hp4mdl735ayj3i1PA0u3i3MGctyaG_flPwNz1oH",
+                    "cookie_valid": "1786977768",
+                    "create_date": "Monday, August 17, 2026, 8:07:17 PM",
+                    "expire_date": "Monday, August 17, 2026, 8:12:48 PM",
                     "language": "ENGLISH"
                 }
             ]
@@ -145,11 +145,11 @@
                     "color": "#1aa231",
                     "cricketScore": [
                         {
-                            "runs": 1,
-                            "overs": "0.3",
-                            "balls": "3",
+                            "runs": 36,
+                            "overs": "4",
+                            "balls": "24",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -204,11 +204,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/240p.m3u8?hdntl=Expires=1786975858~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWMQLDfQgykwYhxtcZ6ATR27vsV5t8S2D8M--zoo3NSEuGlKyhOPFvsUJZiiKI-KsS1WWcntlcyqb_ELBEMIkeYK\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/360p.m3u8?hdntl=Expires=1786975858~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWMQLDfQgykwYhxtcZ6ATR27vsV5t8S2D8M--zoo3NSEuGlKyhOPFvsUJZiiKI-KsS1WWcntlcyqb_ELBEMIkeYK\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/480p.m3u8?hdntl=Expires=1786975858~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWMQLDfQgykwYhxtcZ6ATR27vsV5t8S2D8M--zoo3NSEuGlKyhOPFvsUJZiiKI-KsS1WWcntlcyqb_ELBEMIkeYK\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/540p.m3u8?hdntl=Expires=1786975858~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWMQLDfQgykwYhxtcZ6ATR27vsV5t8S2D8M--zoo3NSEuGlKyhOPFvsUJZiiKI-KsS1WWcntlcyqb_ELBEMIkeYK\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/720p.m3u8?hdntl=Expires=1786975858~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWMQLDfQgykwYhxtcZ6ATR27vsV5t8S2D8M--zoo3NSEuGlKyhOPFvsUJZiiKI-KsS1WWcntlcyqb_ELBEMIkeYK\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786975858~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWMQLDfQgykwYhxtcZ6ATR27vsV5t8S2D8M--zoo3NSEuGlKyhOPFvsUJZiiKI-KsS1WWcntlcyqb_ELBEMIkeYK",
-                    "cookie": "hdntl=Expires=1786975858~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWMQLDfQgykwYhxtcZ6ATR27vsV5t8S2D8M--zoo3NSEuGlKyhOPFvsUJZiiKI-KsS1WWcntlcyqb_ELBEMIkeYK",
-                    "cookie_valid": "1786975858",
-                    "create_date": "Monday, August 17, 2026, 7:35:28 PM",
-                    "expire_date": "Monday, August 17, 2026, 7:40:58 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/240p.m3u8?hdntl=Expires=1786977775~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWPkF2tj4k6qyfQq6iis5KGcT1K2V3LYVfvvpyY2Z1H5hCEdoUaIl7j-JKA6Zh0tVow2V51To7TN4i5lQtUqi34O\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/360p.m3u8?hdntl=Expires=1786977775~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWPkF2tj4k6qyfQq6iis5KGcT1K2V3LYVfvvpyY2Z1H5hCEdoUaIl7j-JKA6Zh0tVow2V51To7TN4i5lQtUqi34O\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/480p.m3u8?hdntl=Expires=1786977775~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWPkF2tj4k6qyfQq6iis5KGcT1K2V3LYVfvvpyY2Z1H5hCEdoUaIl7j-JKA6Zh0tVow2V51To7TN4i5lQtUqi34O\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/540p.m3u8?hdntl=Expires=1786977775~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWPkF2tj4k6qyfQq6iis5KGcT1K2V3LYVfvvpyY2Z1H5hCEdoUaIl7j-JKA6Zh0tVow2V51To7TN4i5lQtUqi34O\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/720p.m3u8?hdntl=Expires=1786977775~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWPkF2tj4k6qyfQq6iis5KGcT1K2V3LYVfvvpyY2Z1H5hCEdoUaIl7j-JKA6Zh0tVow2V51To7TN4i5lQtUqi34O\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786977775~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWPkF2tj4k6qyfQq6iis5KGcT1K2V3LYVfvvpyY2Z1H5hCEdoUaIl7j-JKA6Zh0tVow2V51To7TN4i5lQtUqi34O",
+                    "cookie": "hdntl=Expires=1786977775~_GO=Generated~acl=/mumbai/4248333_hindi_hls_cbf62260ff95387_1ta-di_h264/*~Signature=ARceAWPkF2tj4k6qyfQq6iis5KGcT1K2V3LYVfvvpyY2Z1H5hCEdoUaIl7j-JKA6Zh0tVow2V51To7TN4i5lQtUqi34O",
+                    "cookie_valid": "1786977775",
+                    "create_date": "Monday, August 17, 2026, 8:07:24 PM",
+                    "expire_date": "Monday, August 17, 2026, 8:12:55 PM",
                     "language": "HINDI"
                 }
             ]
@@ -246,11 +246,11 @@
                     "color": "#1aa231",
                     "cricketScore": [
                         {
-                            "runs": 1,
-                            "overs": "0.3",
-                            "balls": "3",
+                            "runs": 36,
+                            "overs": "4",
+                            "balls": "24",
                             "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "wickets": 1
                         }
                     ],
                     "kabaddiScore": null,
@@ -305,11 +305,11 @@
             },
             "auto_streams": [
                 {
-                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/240p.m3u8?hdntl=Expires=1786975859~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWN0AX0KgZTY1jkMmKLAOeOxanAAQ8om9aZJzJrXXYVX9VEVkPylAkCXolrq880gMhGwJP_uAVWxpcvIG6989zcA\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/360p.m3u8?hdntl=Expires=1786975859~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWN0AX0KgZTY1jkMmKLAOeOxanAAQ8om9aZJzJrXXYVX9VEVkPylAkCXolrq880gMhGwJP_uAVWxpcvIG6989zcA\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/480p.m3u8?hdntl=Expires=1786975859~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWN0AX0KgZTY1jkMmKLAOeOxanAAQ8om9aZJzJrXXYVX9VEVkPylAkCXolrq880gMhGwJP_uAVWxpcvIG6989zcA\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/540p.m3u8?hdntl=Expires=1786975859~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWN0AX0KgZTY1jkMmKLAOeOxanAAQ8om9aZJzJrXXYVX9VEVkPylAkCXolrq880gMhGwJP_uAVWxpcvIG6989zcA\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/720p.m3u8?hdntl=Expires=1786975859~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWN0AX0KgZTY1jkMmKLAOeOxanAAQ8om9aZJzJrXXYVX9VEVkPylAkCXolrq880gMhGwJP_uAVWxpcvIG6989zcA\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786975859~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWN0AX0KgZTY1jkMmKLAOeOxanAAQ8om9aZJzJrXXYVX9VEVkPylAkCXolrq880gMhGwJP_uAVWxpcvIG6989zcA",
-                    "cookie": "hdntl=Expires=1786975859~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWN0AX0KgZTY1jkMmKLAOeOxanAAQ8om9aZJzJrXXYVX9VEVkPylAkCXolrq880gMhGwJP_uAVWxpcvIG6989zcA",
-                    "cookie_valid": "1786975859",
-                    "create_date": "Monday, August 17, 2026, 7:35:29 PM",
-                    "expire_date": "Monday, August 17, 2026, 7:40:59 PM",
+                    "auto": "#EXTM3U\n#EXT-X-VERSION:3\n#EXT-X-STREAM-INF:BANDWIDTH=446936,AVERAGE-BANDWIDTH=446936,CODECS=\"avc1.42e015,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=426x240,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/240p.m3u8?hdntl=Expires=1786977775~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWMmhcctvi-UcG7OtffEM6iPXXzKPlHP2iqjL1UjqtI3kZ_ESFvvR2NKen7gq5eCQv9kBv-s3UdkDZ942ML9M_gI\n#EXT-X-STREAM-INF:BANDWIDTH=702376,AVERAGE-BANDWIDTH=702376,CODECS=\"avc1.42e01e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=640x360,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/360p.m3u8?hdntl=Expires=1786977775~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWMmhcctvi-UcG7OtffEM6iPXXzKPlHP2iqjL1UjqtI3kZ_ESFvvR2NKen7gq5eCQv9kBv-s3UdkDZ942ML9M_gI\n#EXT-X-STREAM-INF:BANDWIDTH=1023224,AVERAGE-BANDWIDTH=1023224,CODECS=\"avc1.4d401e,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=854x480,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/480p.m3u8?hdntl=Expires=1786977775~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWMmhcctvi-UcG7OtffEM6iPXXzKPlHP2iqjL1UjqtI3kZ_ESFvvR2NKen7gq5eCQv9kBv-s3UdkDZ942ML9M_gI\n#EXT-X-STREAM-INF:BANDWIDTH=1278664,AVERAGE-BANDWIDTH=1278664,CODECS=\"avc1.4d401f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=960x540,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/540p.m3u8?hdntl=Expires=1786977775~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWMmhcctvi-UcG7OtffEM6iPXXzKPlHP2iqjL1UjqtI3kZ_ESFvvR2NKen7gq5eCQv9kBv-s3UdkDZ942ML9M_gI\n#EXT-X-STREAM-INF:BANDWIDTH=1789512,AVERAGE-BANDWIDTH=1789512,CODECS=\"avc1.64001f,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1280x720,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/720p.m3u8?hdntl=Expires=1786977775~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWMmhcctvi-UcG7OtffEM6iPXXzKPlHP2iqjL1UjqtI3kZ_ESFvvR2NKen7gq5eCQv9kBv-s3UdkDZ942ML9M_gI\n#EXT-X-STREAM-INF:BANDWIDTH=3322120,AVERAGE-BANDWIDTH=3322120,CODECS=\"avc1.640028,mp4a.40.2\",PROGRAM-ID=1,RESOLUTION=1920x1080,FRAME-RATE=25.000\nhttps://in-mc-flive.fancode.com/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/1080p.m3u8?hdntl=Expires=1786977775~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWMmhcctvi-UcG7OtffEM6iPXXzKPlHP2iqjL1UjqtI3kZ_ESFvvR2NKen7gq5eCQv9kBv-s3UdkDZ942ML9M_gI",
+                    "cookie": "hdntl=Expires=1786977775~_GO=Generated~acl=/mumbai/4248333_bhojpuri_hls_2c447842f579177_1ta-di_h264/*~Signature=ARceAWMmhcctvi-UcG7OtffEM6iPXXzKPlHP2iqjL1UjqtI3kZ_ESFvvR2NKen7gq5eCQv9kBv-s3UdkDZ942ML9M_gI",
+                    "cookie_valid": "1786977775",
+                    "create_date": "Monday, August 17, 2026, 8:07:25 PM",
+                    "expire_date": "Monday, August 17, 2026, 8:12:55 PM",
                     "language": "BHOJPURI"
                 }
             ]
@@ -347,11 +347,11 @@
                     "color": "#ffb400",
                     "cricketScore": [
                         {
-                            "runs": 115,
-                            "overs": "14",
-                            "balls": "84",
+                            "runs": 206,
+                            "overs": "20",
+                            "balls": "120",
                             "status": "IN_PROGRESS",
-                            "wickets": 3
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -448,11 +448,11 @@
                     "color": "#1c50b1",
                     "cricketScore": [
                         {
-                            "runs": 105,
-                            "overs": "14.3",
-                            "balls": "87",
+                            "runs": 119,
+                            "overs": "17.1",
+                            "balls": "103",
                             "status": "IN_PROGRESS",
-                            "wickets": 4
+                            "wickets": 6
                         }
                     ],
                     "kabaddiScore": null,
@@ -818,6 +818,75 @@
         },
         {
             "category": "Cricket",
+            "title": "East Delhi Riders Vs Central Delhi Kings",
+            "tournament": "Delhi Premier League, 2026",
+            "short_name": null,
+            "match_id": 4247992,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "18 August 2026 07:00 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4247992_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League-2026-Mens.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4247992_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "East Delhi Riders",
+                    "shortName": "EDR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#e7993a",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Central Delhi Kings",
+                    "shortName": "CDK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDK@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#0082cb",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ],
+            "language": "BLOODY_SWEET",
+            "STREAMING_CDN": {
+                "language": "BLOODY_SWEET",
+                "Primary_Playback_URL": null
+            },
+            "auto_streams": null
+        },
+        {
+            "category": "Cricket",
             "title": "Bahrain Vs Uganda",
             "tournament": "ICC CWC Challenge League B 2026",
             "short_name": null,
@@ -935,75 +1004,6 @@
                     },
                     "isWinner": null,
                     "color": "#a42322",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ],
-            "language": "BLOODY_SWEET",
-            "STREAMING_CDN": {
-                "language": "BLOODY_SWEET",
-                "Primary_Playback_URL": null
-            },
-            "auto_streams": null
-        },
-        {
-            "category": "Cricket",
-            "title": "East Delhi Riders Vs Central Delhi Kings",
-            "tournament": "Delhi Premier League, 2026",
-            "short_name": null,
-            "match_id": 4247992,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "18 August 2026 07:00 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4247992_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League-2026-Mens.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4247992_53005_EDR_CDK_fc-Web.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4247992_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "East Delhi Riders",
-                    "shortName": "EDR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-EDR@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#e7993a",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Central Delhi Kings",
-                    "shortName": "CDK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDK@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#0082cb",
                     "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
