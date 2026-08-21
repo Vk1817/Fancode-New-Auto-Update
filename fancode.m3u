@@ -15,3 +15,7 @@ https://in-mc-flive.fancode.com/mumbai/4248428_english_hls_ed30d94d7f1721_1ta-di
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-flive.fancode.com/mumbai/4247558_english_hls_f44100965797425_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4248426" tvg-logo="https://images.fancode.com/aig/match/v1787120232573/4248426_CASACARDS_SPORTY_APP.png" group-title="Cricket", Top End T20 Series, 2026: Northern Territory Strike Vs Nepal (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/4248426_english_hls_1f08d8e16794905_1ta-di_h264/index.m3u8
