@@ -3,18 +3,6 @@
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-flive.fancode.com/mumbai/4248003_english_hls_b71aafd8a592403_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4248353" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png" group-title="Cricket", Uttar Pradesh T20 League, 2026: Gaur Gorakhpur Lions Vs Noida Kings (HINDI)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4248353_hindi_hls_2398459a9e55686_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4248353" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248353_53029_NOI_GOR_FC-Web_1786702851470.png" group-title="Cricket", Uttar Pradesh T20 League, 2026: Gaur Gorakhpur Lions Vs Noida Kings (BHOJPURI)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4248353_bhojpuri_hls_ffe69fa71031206_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4248275" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248275_53025_NEOM_ALQ_FC-Web.png" group-title="Football", Roshn Saudi League 2026-2027: Neom Sc Vs Al Qadisiyah (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4248275_english_hls_f23c1911b052093_1ta-di_h264/index.m3u8
 #EXTINF:-1 tvg-id="4247579" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247579_53004_OSN_LET_FC-Web.png" group-title="Football", LALIGA 2026-27: Ca Osasuna Vs Levante (ENGLISH) [DRM]
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
@@ -23,6 +11,10 @@ https://in-mc-flive.fancode.com/mumbai/4247579_english_dash_10964_1drmta-di_h264
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
 https://in-mc-flive.fancode.com/mumbai/4248276_english_hls_45c0c8313e66473_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4247587" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247587_53004_MAG_COR_FC-Web.png" group-title="Football", LALIGA 2026-27: Málaga Vs Deportivo De La Coruna (ENGLISH) [DRM]
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/4247587_english_dash_21805_1drmta-di_h264/index.mpd
 #EXTINF:-1 tvg-id="4248151" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Tennis", ATP 250 - Winston-Salem Open 2026: World Feed (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
