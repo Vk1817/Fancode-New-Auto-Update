@@ -2,7 +2,7 @@
     "Author": "DOCTOR_STRANGE",
     "Telegram": "https://t.me/jitendraunatti_github",
     "name": "FanCode Live Matches API",
-    "last_updated": "11:28:04 AM 26-08-2026",
+    "last_updated": "12:28:08 PM 26-08-2026",
     "headers": {
         "User-Agent": "ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1",
         "Referer": "https://fancode.com/"
@@ -44,11 +44,11 @@
                     "color": "#093E63",
                     "cricketScore": [
                         {
-                            "runs": 90,
-                            "overs": "11.2",
-                            "balls": "68",
-                            "status": "IN_PROGRESS",
-                            "wickets": 0
+                            "runs": 182,
+                            "overs": "20",
+                            "balls": "120",
+                            "status": "COMPLETED",
+                            "wickets": 2
                         }
                     ],
                     "kabaddiScore": null,
@@ -57,7 +57,7 @@
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": true
+                            "isBatting": false
                         }
                     }
                 },
@@ -69,14 +69,22 @@
                     },
                     "isWinner": null,
                     "color": "#771ad2",
-                    "cricketScore": [],
+                    "cricketScore": [
+                        {
+                            "runs": 20,
+                            "overs": "2.4",
+                            "balls": "16",
+                            "status": "IN_PROGRESS",
+                            "wickets": 1
+                        }
+                    ],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
                     "hockeyScore": null,
                     "status": {
                         "cricket": {
-                            "isBatting": false
+                            "isBatting": true
                         }
                     }
                 }
@@ -1054,13 +1062,13 @@
         },
         {
             "category": "Tennis",
-            "title": "Atp 250   Winston Salem Open 2026",
+            "title": "World Feed",
             "tournament": "ATP 250 - Winston-Salem Open 2026",
             "short_name": null,
             "match_id": 4248153,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "26 August 2026 10:00 PM",
+            "startTime": "26 August 2026 11:30 PM",
             "startDate": null,
             "endDate": null,
             "image": "https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png",
@@ -1076,8 +1084,8 @@
             },
             "team": [
                 {
-                    "name": "ATP 250 - Winston-Salem Open 2026",
-                    "shortName": "ATP 250 - Winston-Salem Open 2026",
+                    "name": "World Feed",
+                    "shortName": "World Feed",
                     "flag": {
                         "src": "https://d13ir53smqqeyp.cloudfront.net/flags/lawn-tennis-flags/FC-ATP@2x.png"
                     },
@@ -1103,6 +1111,69 @@
                     "isWinner": null,
                     "color": "#FF0000",
                     "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "category": "Cricket",
+            "title": "Trinbago Knight Riders Vs Saint Lucia Kings",
+            "tournament": "Caribbean Premier League, 2026",
+            "short_name": null,
+            "match_id": 4248298,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "27 August 2026 04:30 AM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248298_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/CPLT20_Caribbean-Premier-League.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248298_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Trinbago Knight Riders",
+                    "shortName": "TKR",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TKRD@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#311659",
+                    "cricketScore": [],
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Saint Lucia Kings",
+                    "shortName": "SLK",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#1e6583",
+                    "cricketScore": [],
                     "kabaddiScore": null,
                     "footballScore": null,
                     "basketBallScore": null,
@@ -1354,69 +1425,6 @@
         },
         {
             "category": "Cricket",
-            "title": "Trinbago Knight Riders Vs Saint Lucia Kings",
-            "tournament": "Caribbean Premier League, 2026",
-            "short_name": null,
-            "match_id": 4248298,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "27 August 2026 04:30 AM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248298_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/CPLT20_Caribbean-Premier-League.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248298_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "Trinbago Knight Riders",
-                    "shortName": "TKR",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-TKRD@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#311659",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Saint Lucia Kings",
-                    "shortName": "SLK",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-KIGS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#1e6583",
-                    "cricketScore": [],
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ]
-        },
-        {
-            "category": "Cricket",
             "title": "Taknor Tigers Vs Someshwar Warriors",
             "tournament": "Uttarkashi T20 League 2026",
             "short_name": null,
@@ -1465,69 +1473,6 @@
                     },
                     "isWinner": null,
                     "color": "#DCDCDC",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ]
-        },
-        {
-            "category": "Cricket",
-            "title": "North Delhi Strikers Women Vs Central Delhi Queens",
-            "tournament": "Women's Delhi Premier League, 2026",
-            "short_name": null,
-            "match_id": 4247557,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "27 August 2026 07:00 PM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247557_53003_NDS-W_CDQ_FC-Web_1787555684627.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4247557_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4247557_53003_NDS-W_CDQ_FC-Web_1787555684627.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League-2026-Mens.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4247557_53003_NDS-W_CDQ_FC-Web_1787555684627.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4247557_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "North Delhi Strikers Women",
-                    "shortName": "NDS-W",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDS@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#713c94",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Central Delhi Queens",
-                    "shortName": "CDQ",
-                    "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDQ@2x.png"
-                    },
-                    "isWinner": null,
-                    "color": "#3aae2a",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1668,36 +1613,36 @@
             ]
         },
         {
-            "category": "Golf",
-            "title": "Day 1",
-            "tournament": "KPMG Women’s Irish Open 2026",
+            "category": "Cricket",
+            "title": "North Delhi Strikers Women Vs Central Delhi Queens",
+            "tournament": "Women's Delhi Premier League, 2026",
             "short_name": null,
-            "match_id": 4248323,
+            "match_id": 4247557,
             "status": "NOT_STARTED",
             "streamingStatus": "NOT_STARTED",
-            "startTime": "27 August 2026 07:30 PM",
+            "startTime": "27 August 2026 07:00 PM",
             "startDate": null,
             "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4247557_53003_NDS-W_CDQ_FC-Web_1787555684627.png",
             "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248323_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4247557_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4247557_53003_NDS-W_CDQ_FC-Web_1787555684627.png",
                 "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/KPMG-Womens-Irish-Open.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248323_CASACARDS_PARTNER_16_9_1920_1080.png"
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/Delhi-Premier-League-2026-Mens.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4247557_53003_NDS-W_CDQ_FC-Web_1787555684627.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4247557_CASACARDS_PARTNER_16_9_1920_1080.png"
             },
             "team": [
                 {
-                    "name": "Day 1",
-                    "shortName": "Day 1",
+                    "name": "North Delhi Strikers Women",
+                    "shortName": "NDS-W",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-KWI@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-NDS@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#182ca0",
+                    "color": "#713c94",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1710,13 +1655,13 @@
                     }
                 },
                 {
-                    "name": "The K Club",
-                    "shortName": "The K Club",
+                    "name": "Central Delhi Queens",
+                    "shortName": "CDQ",
                     "flag": {
-                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/cr-flags/FC-CDQ@2x.png"
                     },
                     "isWinner": null,
-                    "color": "#141414",
+                    "color": "#3aae2a",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -1843,6 +1788,69 @@
                     },
                     "isWinner": null,
                     "color": "#D3BA1B",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "category": "Golf",
+            "title": "Day 1",
+            "tournament": "KPMG Women’s Irish Open 2026",
+            "short_name": null,
+            "match_id": 4248323,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "27 August 2026 07:30 PM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248323_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/KPMG-Womens-Irish-Open.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_Golf-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_Golf.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248323_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "Day 1",
+                    "shortName": "Day 1",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-KWI@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#182ca0",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "The K Club",
+                    "shortName": "The K Club",
+                    "flag": {
+                        "src": "https://d13ir53smqqeyp.cloudfront.net/flags/gl-flags/FC-LOC@2x.png"
+                    },
+                    "isWinner": null,
+                    "color": "#141414",
                     "cricketScore": null,
                     "kabaddiScore": null,
                     "footballScore": null,
@@ -2110,69 +2118,6 @@
         },
         {
             "category": "Cricket",
-            "title": "St Kitts And Nevis Patriots Vs Jamaica Kingsmen",
-            "tournament": "Caribbean Premier League, 2026",
-            "short_name": null,
-            "match_id": 4248292,
-            "status": "NOT_STARTED",
-            "streamingStatus": "NOT_STARTED",
-            "startTime": "28 August 2026 04:30 AM",
-            "startDate": null,
-            "endDate": null,
-            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248292_53026_SKN_JK_FC-Web.png",
-            "image_cdn": {
-                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248292_CASACARDS_PARTNER_16_9_1920_1080.png",
-                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248292_53026_SKN_JK_FC-Web.png",
-                "PLAYBACK": null,
-                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/CPLT20_Caribbean-Premier-League.png",
-                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
-                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248292_53026_SKN_JK_FC-Web.png",
-                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
-                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248292_CASACARDS_PARTNER_16_9_1920_1080.png"
-            },
-            "team": [
-                {
-                    "name": "St Kitts and Nevis Patriots",
-                    "shortName": "SKN",
-                    "flag": {
-                        "src": "https://www.fancode.com/skillup-uploads/cms-media/0.png"
-                    },
-                    "isWinner": null,
-                    "color": "#3fd379",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                },
-                {
-                    "name": "Jamaica Kingsmen",
-                    "shortName": "JK",
-                    "flag": {
-                        "src": "https://www.fancode.com/skillup-uploads/cms-media/Jamaica-Kingsmen.png"
-                    },
-                    "isWinner": null,
-                    "color": "#DCDCDC",
-                    "cricketScore": null,
-                    "kabaddiScore": null,
-                    "footballScore": null,
-                    "basketBallScore": null,
-                    "hockeyScore": null,
-                    "status": {
-                        "cricket": {
-                            "isBatting": false
-                        }
-                    }
-                }
-            ]
-        },
-        {
-            "category": "Cricket",
             "title": "Adelaide Strikers Academy Vs Hyderabad Kingsmen Academy",
             "tournament": "Top End T20 Series, 2026",
             "short_name": null,
@@ -2218,6 +2163,69 @@
                     "shortName": "HKA",
                     "flag": {
                         "src": "https://www.fancode.com/skillup-uploads/cms-media/Kingsmen.png"
+                    },
+                    "isWinner": null,
+                    "color": "#DCDCDC",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                }
+            ]
+        },
+        {
+            "category": "Cricket",
+            "title": "St Kitts And Nevis Patriots Vs Jamaica Kingsmen",
+            "tournament": "Caribbean Premier League, 2026",
+            "short_name": null,
+            "match_id": 4248292,
+            "status": "NOT_STARTED",
+            "streamingStatus": "NOT_STARTED",
+            "startTime": "28 August 2026 04:30 AM",
+            "startDate": null,
+            "endDate": null,
+            "image": "https://www.fancode.com/skillup-uploads/cms-media/4248292_53026_SKN_JK_FC-Web.png",
+            "image_cdn": {
+                "TATAPLAY": "https://images.fancode.com/aig/match/v1/4248292_CASACARDS_PARTNER_16_9_1920_1080.png",
+                "APP": "https://www.fancode.com/skillup-uploads/cms-media/4248292_53026_SKN_JK_FC-Web.png",
+                "PLAYBACK": null,
+                "LOGO": "https://www.fancode.com/skillup-uploads/cms-media/CPLT20_Caribbean-Premier-League.png",
+                "SPORTS": "https://www.fancode.com/skillup-uploads/cms-media/FC_Sports_Default_cricket-old.jpg",
+                "BG_IMAGE": "https://www.fancode.com/skillup-uploads/cms-media/4248292_53026_SKN_JK_FC-Web.png",
+                "SPORT_BY_IMAGE": "https://fancode.com/skillup-uploads/prod-images/2023/08/FC_Sports_Default_cricket.jpg",
+                "CLOUDFARE": "https://d229kpbsb5jevy.cloudfront.net/vffancode2/aig/match/v1/4248292_CASACARDS_PARTNER_16_9_1920_1080.png"
+            },
+            "team": [
+                {
+                    "name": "St Kitts and Nevis Patriots",
+                    "shortName": "SKN",
+                    "flag": {
+                        "src": "https://www.fancode.com/skillup-uploads/cms-media/0.png"
+                    },
+                    "isWinner": null,
+                    "color": "#3fd379",
+                    "cricketScore": null,
+                    "kabaddiScore": null,
+                    "footballScore": null,
+                    "basketBallScore": null,
+                    "hockeyScore": null,
+                    "status": {
+                        "cricket": {
+                            "isBatting": false
+                        }
+                    }
+                },
+                {
+                    "name": "Jamaica Kingsmen",
+                    "shortName": "JK",
+                    "flag": {
+                        "src": "https://www.fancode.com/skillup-uploads/cms-media/Jamaica-Kingsmen.png"
                     },
                     "isWinner": null,
                     "color": "#DCDCDC",
