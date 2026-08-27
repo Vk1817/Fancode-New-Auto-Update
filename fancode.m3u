@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4248438" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248438_53036_NTS_VA_fc-web_1787393618683.jpg" group-title="Cricket", Top End T20 Series, 2026: Victoria Academy Vs Northern Territory Strike (ENGLISH)
+#EXTINF:-1 tvg-id="4248808" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Dehradun-T20-League_Auction_fc-web.jpg" group-title="Live Events", Dehradun T20 League 2026: Dehradun T20 League 2026 (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4248438_english_hls_f5820febdf63007_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4248447" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248447_53036_HYK_NEP_fc-web_1787393618627.jpg" group-title="Cricket", Top End T20 Series, 2026: Hyderabad Kingsmen Academy Vs Nepal A (ENGLISH)
+https://in-mc-flive.fancode.com/mumbai/4248808_english_hls_8006e20e5580384_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4247557" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247557_53003_NDS-W_CDQ_FC-Web_1787555684627.png" group-title="Cricket", Women's Delhi Premier League, 2026: Central Delhi Queens Vs North Delhi Strikers Women (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4248447_english_hls_b8e72cc4f031271_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4248298" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248298_53026_TKR_SLK_FC-Web.png" group-title="Cricket", Caribbean Premier League, 2026: Saint Lucia Kings Vs Trinbago Knight Riders (ENGLISH)
+https://in-mc-flive.fancode.com/mumbai/4247557_english_hls_2c8ba51f7554222_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4248323" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/KPMG_Web-match-card.png" group-title="Golf", KPMG Women’s Irish Open 2026: Day 1 (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4248298_english_hls_80160ddb0e13093_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/4248323_english_hls_210af27a6985012_1ta-di_h264/index.m3u8
