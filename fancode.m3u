@@ -1,17 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4247569" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247569_53004_BAR_ATH_FC-Web.png" group-title="Football", LALIGA 2026-27: Fc Barcelona Vs Athletic Club (ENGLISH) [DRM]
+#EXTINF:-1 tvg-id="4248445" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248445_53036_NTS_BAN-HP_fc-web_1787393618584.jpg" group-title="Cricket", Top End T20 Series, 2026: Northern Territory Strike Vs Bangladesh Hp Xi (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4247569_english_dash_52541_1drmta-di_h264/index.mpd
-#EXTINF:-1 tvg-id="4248508" tvg-logo="https://images.fancode.com/aig/match/v1787223454516/4248508_CASACARDS_SPORTY_APP.png" group-title="Football", Carabao Cup 2026-27: Fulham Vs Afc Wimbledon (ENGLISH)
+https://in-mc-flive.fancode.com/mumbai/4248445_english_hls_b7b33147513795_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4248520" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248520_53041_RR_BNR_FC-Web.jpg" group-title="Cricket", Uttarkashi T20 League 2026: Rawain Royals Vs Baukh Night Riders (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4248508_english_hls_5ed3a3e40046660_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4248418" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/IMG_5860_1787577451191.png" group-title="Golf", TOUR Championship 2026: World Feed   Day 1 (ENGLISH)
+https://in-mc-flive.fancode.com/mumbai/4248520_english_hls_a33f9c820570084_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4248579" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Mini_.png" group-title="Cricket", Nordic Women's T20I Cup 2026: Germany Women Vs Sweden Women (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4248418_english_hls_d44e2830c292339_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4248154" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/ATP-250---Winston-Salem-Open-2026-old.png" group-title="Tennis", ATP 250 - Winston-Salem Open 2026: World Feed (ENGLISH)
+https://in-mc-flive.fancode.com/mumbai/4248579_english_hls_5bd75219d451589_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="139963" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" group-title="MotoGP", GRAND PRIX OF ARAGON 2026: Aragon Gp (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4248154_english_hls_9f7a95bd4a24087_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/139963_english_hls_426e34587229407_1ta-di_h264/index.m3u8
+#EXTINF:-1 tvg-id="4247556" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4247556_53003_SDS-W_EDR-W_FC-Web_1787555684559.png" group-title="Cricket", Women's Delhi Premier League, 2026: South Delhi Superstarz Women Vs East Delhi Riders Women (ENGLISH)
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
+#EXTVLCOPT:http-referrer=https://fancode.com/
+https://in-mc-flive.fancode.com/mumbai/4247556_english_hls_66fab0740b27981_1ta-di_h264/index.m3u8
