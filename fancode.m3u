@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="4248455" tvg-logo="https://images.fancode.com/aig/match/v1787120232581/4248455_CASACARDS_SPORTY_APP.png" group-title="Cricket", Top End T20 Series, 2026: Hobart Hurricanes Academy Vs New Zealand A (ENGLISH)
+#EXTINF:-1 tvg-id="139964" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/Grand-Prix-of-Aragon_fc-web.jpg" group-title="MotoGP", GRAND PRIX OF ARAGON 2026: Aragon Gp (ENGLISH)
 #EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
 #EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4248455_english_hls_6b1fde0b4429398_1ta-di_h264/index.m3u8
-#EXTINF:-1 tvg-id="4248301" tvg-logo="https://www.fancode.com/skillup-uploads/cms-media/4248301_53026_TKR_BT_FC-Web.png" group-title="Cricket", Caribbean Premier League, 2026: Barbados Tridents Vs Trinbago Knight Riders (ENGLISH)
-#EXTVLCOPT:http-user-agent=ReactNativeVideo/9.11.1 (Linux;Android 13) AndroidXMedia3/1.6.1
-#EXTVLCOPT:http-referrer=https://fancode.com/
-https://in-mc-flive.fancode.com/mumbai/4248301_english_hls_705b4edf6e51964_1ta-di_h264/index.m3u8
+https://in-mc-flive.fancode.com/mumbai/139964_english_hls_89a688f1a020759_1ta-di_h264/index.m3u8
